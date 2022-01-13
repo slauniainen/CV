@@ -59,19 +59,15 @@
 -	Jari-Pekka Nousu, 8/2020-, Modeling spatiotemporal hydrology at high-latitudes, University of Oulu, Finland
 
 ***Project leadership***
--	Leader of Luke’s Ecosystem Modeling Lab and Academy Research Fellow Project CLIMOSS (2016-2021)
--	sub-project PI TRAM (2021-) & ForClimStress (2020-)
+-	PI Luke’s Ecosystem Modeling Lab and Academy Research Fellow Project CLIMOSS (2016-2021)
+-	PI Trafficability Prediction and Route Planning for Forest Machines (TRAM, Academy of Finland 2021-) & ForClimStress (2020-)
 -	Coordinator of Luke’s Eddy-Covariance and greenhouse gas infrastructure development (2021-)
 
 ### 7.	Teaching experience and pedagogical competence
 - University pedagogics (10ETC, University of Helsinki, 2009)
 
-***Lectured courses***
--	Forest-Atmosphere Interactions (2008), University of Helsinki, Department of Physics
--	Forest Soil Hydrology 2013, University of Eastern Finland, School of Forest Science
-
-***Assistant / guest lecturer***
--	Forest-Atmosphere Interactions (2006); Boundary-layer physics I (2006, 2009); Boundary-layer physics II (2007); Principles in Environmental Physics I (2009); Impacts of silviculture on greenhouse gas emissions and biogeochemical cycles (2010)
+- ***Lectured courses:*** Forest-Atmosphere Interactions (2008, University of Helsinki); Forest Soil Hydrology (2013, University of Eastern Finland)
+- ***Assistant / guest lecturer:*** Forest-Atmosphere Interactions (2006); Boundary-layer physics I (2006, 2009); Boundary-layer physics II (2007); Principles in Environmental Physics I (2009); Impacts of silviculture on greenhouse gas emissions and biogeochemical cycles (2010)
 
 ### 8.	Research outputs
 -	70 peer-reviewed scientific articles, h-index 31, number of citations 2936 (Google Scholar, 13.1.2022)
