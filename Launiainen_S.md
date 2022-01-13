@@ -2,25 +2,24 @@
 ## CURRICULUM VITAE 13.1.2022
 
 ### 1.	Personal details
-Surname: Launiainen First names: Jomi Jouko Samuli
-
-Gender: Male, Date of Birth: 10.11.1978, Nationality: Finnish
-
-ORCID: https://orcid.org/0000-0001-6611-6573
-
-WoS Researcher ID: AAS-9180-2021
+- **Surname:** Launiainen 
+- **First names:** Jomi Jouko ***Samuli***
+- **Gender:** Male 
+- **Date of Birth:** 10.11.1978
+- **Nationality:** Finnish
+- **ORCID:** https://orcid.org/0000-0001-6611-6573
+- **WoS Researcher ID:** AAS-9180-2021
+- **email:** samuli.launiainen@luke.fi
+- **tel:** +358 40 8672426
 
 ### 2.	Education and degrees completed
-01.05.2014 Title of Docent (Forest Meteorology and Hydrology), University of Eastern Finland, Finland
-
-07.01.2011 Ph.D. (Meteorology), University of Helsinki, Finland
-
-24.02.2006 M.Sc. (Meteorology), University of Helsinki, Finland
-
-01.01.2021- Specialist vocational qualification in leadership and business management (ongoing), Luksia, Finland
+- 01.05.2014 Title of Docent (Forest Meteorology and Hydrology), University of Eastern Finland, Finland
+- 07.01.2011 Ph.D. (Meteorology), University of Helsinki, Finland
+- 24.02.2006 M.Sc. (Meteorology), University of Helsinki, Finland
+- 01.01.2021- Specialist vocational qualification in leadership and business management (ongoing), Luksia, Finland
 
 ### 3.	Current position
-01.09.2021– Principal Scientist, Natural Resources Institute Finland (LUKE)
+- 01.09.2021– Principal Scientist, Natural Resources Institute Finland (LUKE)
 
 ### 4.	Previous work experience
 - 01.01.2016– 31.8.2021 Academy Research Fellow, LUKE
