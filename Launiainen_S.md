@@ -65,9 +65,11 @@
 
 ### 7.	Teaching experience and pedagogical competence
 - University pedagogics (10ETC, University of Helsinki, 2009)
+
 ***Lectured courses***
 -	Forest-Atmosphere Interactions (2008), University of Helsinki, Department of Physics
 -	Forest Soil Hydrology 2013, University of Eastern Finland, School of Forest Science
+
 ***Assistant / guest lecturer***
 -	Forest-Atmosphere Interactions (2006); Boundary-layer physics I (2006, 2009); Boundary-layer physics II (2007); Principles in Environmental Physics I (2009); Impacts of silviculture on greenhouse gas emissions and biogeochemical cycles (2010)
 
