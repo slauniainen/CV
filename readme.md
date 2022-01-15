@@ -1,4 +1,4 @@
-## CURRICULUM VITAE 13.1.2022
+## CURRICULUM VITAE Samuli Launiainen
 
 ### 1.	Personal details
 - **Surname:** Launiainen 
@@ -8,8 +8,10 @@
 - **Nationality:** Finnish
 - **ORCID:** https://orcid.org/0000-0001-6611-6573
 - **WoS Researcher ID:** AAS-9180-2021
+- **Twitter:** @SaLascience
 - **email:** samuli.launiainen@luke.fi
 - **tel:** +358 40 8672426
+- **Date:** 13.1.2022
 
 ### 2.	Education and degrees completed
 - 01.05.2014 Title of Docent (Forest Meteorology and Hydrology), University of Eastern Finland, Finland
@@ -178,7 +180,7 @@ samuli.launiainen@luke.fi
 69.	**Launiainen S.**, Rinne J., Pumpanen J., Kulmala L., Kolari P., Keronen P., Siivola E., Pohja T., Hari P. and Vesala T. 2005. Eddy covariance measurements of CO2 and sensible and latent heat fluxes during a full year in a boreal pine forest trunk-space, Boreal Environment Research, 10 (6): 569-588, 2005.
 70.	Hyvönen S., Junninen H., Laakso L., Dal Maso M., Grönholm T., Bonn B., Keronen P., Aalto P., Hiltunen V., Pohja T., **Launiainen S.**, Hari P., Mannila H. and Kulmala M. 2005. A look at aerosol formation using data mining techniques, Atmospheric Chemistry and Physics, 5: 3345-3356, 2005.
 
-# B Non-refereed scientific articles
+## B Non-refereed scientific articles
 1.	**Launiainen S.**, Lehtonen, A., and Laurén, A. 2015. Boreaalisten metsien hiilivirrat ja varastot, in Salo, K. (ed.): Metsä – Monikäyttö ja ekosysteemipalvelut, pp. 305 – 309. Luonnonvarakeskus, Helsinki, 2015. 328 p., http://urn.fi/URN:ISBN:978-952-326-123-5
 2.	Rannik Ü., **Launiainen S.**, Pumpanen J., et al. 2013. Environmental factors, in Hari P., Heliövaara K. and Kulmala L. (eds.): Physical and Physiological Forest Ecology, pp. 27 – 42. Springer, Dordrecht, 2013. 534 p. 
 3.	Hölttä T., Hari P., Heliövaara K., Nikinmaa E., Pumpanen J., Vesala T., Kolari P., **Launiainen S.**, et al. 2013. Fluxes of Carbon, Water and Nutrients , in Hari P., Heliövaara K. and Kulmala L. (eds.): Physical and Physiological Forest Ecology, pp. 225 – 328. Springer, Dordrecht, 2013. 534 p. 
