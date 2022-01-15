@@ -1,5 +1,3 @@
-## MY CV and List of Publications
-
 ## CURRICULUM VITAE 13.1.2022
 
 ### 1.	Personal details
