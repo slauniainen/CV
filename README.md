@@ -12,4 +12,4 @@
 
 ***tel:*** +358 40 8672426
 
-###You find my CV and list of publications (13.1.2022) as pdf's
+### Please find my Academic CV and list of publications (13.1.2022) as pdf's
