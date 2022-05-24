@@ -11,13 +11,13 @@
 - **Twitter:** @SaLascience
 - **email:** samuli.launiainen@luke.fi
 - **tel:** +358 40 8672426
-- **Date:** 13.1.2022
+- **Date:** 20.5.2022
 
 ### 2.	Education and degrees completed
 - 01.05.2014 Title of Docent (Forest Meteorology and Hydrology), University of Eastern Finland, Finland
 - 07.01.2011 Ph.D. (Meteorology), University of Helsinki, Finland
 - 24.02.2006 M.Sc. (Meteorology), University of Helsinki, Finland
-- 01.01.2021- Specialist vocational qualification in leadership and business management (ongoing), Luksia, Finland
+- 29.03.2022 Specialist vocational qualification in leadership and business management, Luksia, Finland
 
 ### 3.	Current position
 - 01.09.2021– Principal Scientist, Natural Resources Institute Finland (LUKE)
