@@ -106,11 +106,11 @@ samuli.launiainen@luke.fi
 +358 40 8672426
 
 ## Articles in Review (2)
-2.	Peltola O., Aurela M., **Launiainen S.**, Katul G.G. 2022. Probing the eddy size and its effective mixing length in stably stratified roughness sublayer flows. Q. J. R. Meteorol. Soc. (submitted 5.5.2021)
-1.	Eyvindson K., **Launiainen S.**, Leppä K., Repo A., Salmivaara A., Lehtonen, A. 2022. Quantifying forest management impacts on GHG emissions from drained peatland forests: Balancing production and climate goals. Can. J. For. Res (submitted 5.4.2022)
+1.	Peltola O., Aurela M., **Launiainen S.**, Katul G.G. 2022. Probing the eddy size and its effective mixing length in stably stratified roughness sublayer flows. Q. J. R. Meteorol. Soc. (submitted 5.5.2021)
+2.	Eyvindson K., **Launiainen S.**, Leppä K., Repo A., Salmivaara A., Lehtonen, A. 2022. Quantifying forest management impacts on GHG emissions from drained peatland forests: Balancing production and climate goals. Can. J. For. Res (submitted 5.4.2022)
 
 ## A Peer-reviewed scientific articles (total 71)
-71.	Leppä K., Tang Y., Ogee J., **Launiainen S.**, Khamen A., Kolari P., Sahlstedt E., Saurer M., Schiestl-Aalto P., Rinne-Garmston K., Explicitly accounting for needle sugar pool size crucial for predicting intra-seasonal dynamics of needle carbohydrates d18O and d13C. New Phytol. https://doi:10.1111/nph.18227
+1.	Leppä K., Tang Y., Ogee J., **Launiainen S.**, Khamen A., Kolari P., Sahlstedt E., Saurer M., Schiestl-Aalto P., Rinne-Garmston K., Explicitly accounting for needle sugar pool size crucial for predicting intra-seasonal dynamics of needle carbohydrates d18O and d13C. New Phytol. https://doi:10.1111/nph.18227
 70.	**Launiainen S.**, Katul G., Leppä K., Kolari P., Aslan T., Grönholm T., Korhonen L., Mammarella I., Vesala T. 2021. Does growing atmospheric CO2 explain increasing carbon sink in a boreal coniferous forest? Global Change Biol. (accepted 4.1.2022) 
 69.	Pang X., Gu X.,**Launiainen S.**, Guan M. 2021. Urban hydrological responses to climate change and urbanization in cold climates. Science of the Total Environment (accepted 8.1.2022) 
 68.	Tyystjärvi V., Kemppinen J., Luoto M., Aalto T., Markkanen T., **Launiainen S.**, Kieloaho A-J, Aalto J. 2021. Modelling spatio-temporal soil moisture dynamics in mountain tundra. Hydrological Processes.2022;36:e14450https://doi.org/10.1002/hyp.14450
