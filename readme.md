@@ -85,7 +85,7 @@
 -	Member of European Geoscientific Union 2017-
 
 
-## LIST OF PUBLICATIONS 					May 20th, 2022.
+## LIST OF PUBLICATIONS 					May 30, 2022.
 
 **Samuli Launiainen**
 
@@ -105,9 +105,10 @@ samuli.launiainen@luke.fi
 
 +358 40 8672426
 
-## Articles in Review (2)
-1.	Peltola O., Aurela M., **Launiainen S.**, Katul G.G. 2022. Probing the eddy size and its effective mixing length in stably stratified roughness sublayer flows. Q. J. R. Meteorol. Soc. (submitted 5.5.2021)
-2.	Eyvindson K., **Launiainen S.**, Leppä K., Repo A., Salmivaara A., Lehtonen, A. 2022. Quantifying forest management impacts on GHG emissions from drained peatland forests: Balancing production and climate goals. Can. J. For. Res (submitted 5.4.2022)
+## Articles in Review (3)
+1.  Stenberg L., Leppä K., **Launiainen S.**, Laurén A., Hökkä H., Sarkkola S., Saarinen M. and Nieminen M. 2022. Measuring and modeling the effect of strip cuttings on water 2 table in drained peatland forests. Forests (submitted 29.5.2022)
+2.	Peltola O., Aurela M., **Launiainen S.**, Katul G.G. 2022. Probing the eddy size and its effective mixing length in stably stratified roughness sublayer flows. Q. J. R. Meteorol. Soc. (submitted 5.5.2021)
+3.	Eyvindson K., **Launiainen S.**, Leppä K., Repo A., Salmivaara A., Lehtonen, A. 2022. Quantifying forest management impacts on GHG emissions from drained peatland forests: Balancing production and climate goals. Can. J. For. Res (submitted 5.4.2022)
 
 ## A Peer-reviewed scientific articles (total 71)
 1.	Leppä K., Tang Y., Ogee J., **Launiainen S.**, Khamen A., Kolari P., Sahlstedt E., Saurer M., Schiestl-Aalto P., Rinne-Garmston K., Explicitly accounting for needle sugar pool size crucial for predicting intra-seasonal dynamics of needle carbohydrates d18O and d13C. New Phytol. https://doi:10.1111/nph.18227
