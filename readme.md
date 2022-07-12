@@ -35,7 +35,7 @@
 - 1.9.2016-31.8.2021 Academy of Finland Academy Research Fellow (296116): Climate impacts of boreal bryophytes – from functional traits to global models (CLIMOSS), Academy of Finland (296116), 434 485€
 - 1.9.2016-31.8.2019 Academy of Finland (307192), Academy Research Fellow research costs, 274 642€
 - 1.9.2019-31.8.2021 Academy of Finland (327180), Academy Research Fellow research costs, 199 943€
-- 1.4.2021-31.12.2022 LUKE strategic funding, Hydrology of Tropical Peatlands (HYDROPE) 180 000€
+- 1.4.2021-31.12.2022 LUKE strategic funding, Hydrology of tropical anb boreal peatlands (HYDROPE) 180 000€
 - Academy of Finland, Mobility grant Fin-Jpn joint seminar on the effects of climate change on ecosystem services 2019, 2 700€
 - 01.01.2008-30.6.2010 Academy of Finland Centre Excellence program, Finnish Doctoral School full-time PhD-funding
 
