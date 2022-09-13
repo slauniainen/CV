@@ -86,7 +86,7 @@
 -	Member of European Geoscientific Union 2017-
 
 
-## LIST OF PUBLICATIONS 					Jul 12, 2022.
+## LIST OF PUBLICATIONS 					Sept 13, 2022.
 
 **Samuli Launiainen**
 
@@ -106,7 +106,8 @@ samuli.launiainen@luke.fi
 
 +358 40 8672426
 
-## Articles in Review (3)
+## Articles in Review (4)
+1.	**Launiainen S.**, Kieloaho A.-J., Lindroos A.-J., Salmivaara A., Ilvesniemi H., Heiskanen J. 2022. Water retention characteristics of mineral forest soils in Finland: impacts for modeling soil moisture. Forests (in review)
 1.  Porada P., al. 2022. A research agenda for non-vascular vegetation under climate change. New Phytologist (submitted 11.7.2022)
 1.	Peltola O., Aurela M., **Launiainen S.**, Katul G.G. 2022. Probing the eddy size and its effective mixing length in stably stratified roughness sublayer flows. Q. J. R. Meteorol. Soc. (submitted 5.5.2021)
 1.	Eyvindson K., **Launiainen S.**, Leppä K., Repo A., Salmivaara A., Lehtonen, A. 2022. Quantifying forest management impacts on GHG emissions from drained peatland forests: Balancing production and climate goals. Can. J. For. Res (submitted 5.4.2022)
