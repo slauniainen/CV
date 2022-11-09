@@ -86,7 +86,7 @@
 -	Member of European Geoscientific Union 2017-
 
 
-## LIST OF PUBLICATIONS 					Sept 13, 2022.
+## LIST OF PUBLICATIONS 					Nov 9, 2022.
 
 **Samuli Launiainen**
 
@@ -106,13 +106,15 @@ samuli.launiainen@luke.fi
 
 +358 40 8672426
 
-## Articles in Review (4)
-1.	**Launiainen S.**, Kieloaho A.-J., Lindroos A.-J., Salmivaara A., Ilvesniemi H., Heiskanen J. 2022. Water retention characteristics of mineral forest soils in Finland: impacts for modeling soil moisture. Forests (in review)
-1.  Porada P., al. 2022. A research agenda for non-vascular vegetation under climate change. New Phytologist (submitted 11.7.2022)
-1.	Peltola O., Aurela M., **Launiainen S.**, Katul G.G. 2022. Probing the eddy size and its effective mixing length in stably stratified roughness sublayer flows. Q. J. R. Meteorol. Soc. (submitted 5.5.2021)
+## Articles in Review (3)
+
+1. Salmivaara A., Leinonen A., Palviaine M., Korhonen N., **Launiainen S.**, Tuomenvirta H., Ukonmaanaho L, Finér L., Laurén A. 2022. Exploring the Role of Weather and Forest Management on Nutrient Export in Boreal Forested Catchments using Spatially Distributed Model. Forests (submitted 7.11.2022) 
+1. Porada P., al. 2022. A research agenda for non-vascular vegetation under climate change. New Phytologist (submitted 11.7.2022)
 1.	Eyvindson K., **Launiainen S.**, Leppä K., Repo A., Salmivaara A., Lehtonen, A. 2022. Quantifying forest management impacts on GHG emissions from drained peatland forests: Balancing production and climate goals. Can. J. For. Res (submitted 5.4.2022)
 
-## A Peer-reviewed scientific articles (total 72)
+## A Peer-reviewed scientific articles (total 74)
+1.	**Launiainen S.**, Kieloaho A.-J., Lindroos A.-J., Salmivaara A., Ilvesniemi H., Heiskanen J. 2022. Water retention characteristics of mineral forest soils in Finland: impacts for modeling soil moisture. Forests 13(11):1797. https://doi.org/10.3390/f13111797
+1.	Peltola O., Aurela M., **Launiainen S.**, Katul G.G. 2022. Probing the eddy size and its effective mixing length in stably stratified roughness sublayer flows. Q. J. R. Meteorol. Soc. https://doi.org/10.1002/qj.4386
 1.  Stenberg L., Leppä K., **Launiainen S.**, Laurén A., Hökkä H., Sarkkola S., Saarinen M. and Nieminen M. 2022. Measuring and modeling the effect of strip cuttings on water table in drained peatland forests. Forests. https://doi.org/10.3390/f13071134
 1.	Leppä K., Tang Y., Ogee J., **Launiainen S.**, Khamen A., Kolari P., Sahlstedt E., Saurer M., Schiestl-Aalto P., Rinne-Garmston K., Explicitly accounting for needle sugar pool size crucial for predicting intra-seasonal dynamics of needle carbohydrates d18O and d13C. New Phytol. https://doi:10.1111/nph.18227
 1.  **Launiainen S.**, Katul G., Leppä K., Kolari P., Aslan T., Grönholm T., Korhonen L., Mammarella I., Vesala T. 2021. Does growing atmospheric CO2 explain increasing carbon sink in a boreal coniferous forest? Global Change Biol. https://doi.org/10.1111/gcb.16117
