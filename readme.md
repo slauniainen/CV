@@ -40,7 +40,7 @@
 - 01.01.2008-30.6.2010 Academy of Finland Centre Excellence program, Finnish Doctoral School full-time PhD-funding
 
 ***Grants as consortium member***
-- 01.09.2022-31.8.2026 Academy of Finland (348102): Precision nutrient management - a tool for mitigation of climate change and environmental loading in boreal forestry, 299 942€. With Heli Peltola (UEF) and Marjo Palviainen (Univ. Helsinki), total 999 942€
+- 01.09.2022-31.8.2026 Academy of Finland (348102): Precision nutrient management - a tool for mitigation of climate change and environmental loading in boreal forestry (PREFER), 299 942€. With Heli Peltola (UEF) and Marjo Palviainen (Univ. Helsinki), total 999 942€
 - 01.01.2020-31.12.2023 FORMAS, Sweden: Innovative modelling approaches for the identification of boreal forest management strategies under a changing climate (ForClimStress) to Giulia Vico,(SLU, Sweden), 542 000€ 
 
 ***Significant role as co-applicant in funded proposals***
