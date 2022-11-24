@@ -106,8 +106,9 @@ samuli.launiainen@luke.fi
 
 +358 40 8672426
 
-## Articles in Review (2)
+## Articles in Review (3)
 
+1. Pulliainen J. et al. Four decades increase in gross photosynthesis of boreal forests balanced out by increase in ecosystem respiration. (Submitted 24.11.2022) 
 1. Salmivaara A., Leinonen A., Palviaine M., Korhonen N., **Launiainen S.**, Tuomenvirta H., Ukonmaanaho L, Finér L., Laurén A. 2022. Exploring the Role of Weather and Forest Management on Nutrient Export in Boreal Forested Catchments using Spatially Distributed Model. Forests (submitted 7.11.2022) 
 1.	Eyvindson K., **Launiainen S.**, Leppä K., Repo A., Salmivaara A., Lehtonen, A. 2022. Quantifying forest management impacts on GHG emissions from drained peatland forests: Balancing production and climate goals. Can. J. For. Res (submitted 5.4.2022)
 
