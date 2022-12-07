@@ -113,7 +113,7 @@ samuli.launiainen@luke.fi
 1.	Eyvindson K., **Launiainen S.**, Leppä K., Repo A., Salmivaara A., Lehtonen, A. 2022. Quantifying forest management impacts on GHG emissions from drained peatland forests: Balancing production and climate goals. Can. J. For. Res (submitted 5.4.2022)
 
 ## A Peer-reviewed scientific articles (total 75)
-1. Porada P., et al. 2022. A research agenda for non-vascular vegetation under climate change. New Phytologist (accepted 17.11.2022)
+1. Porada P., et al. 2022. A research agenda for non-vascular vegetation under climate change. New Phytologist. https://doi.org/10.1111/nph.18631
 1.	**Launiainen S.**, Kieloaho A.-J., Lindroos A.-J., Salmivaara A., Ilvesniemi H., Heiskanen J. 2022. Water retention characteristics of mineral forest soils in Finland: impacts for modeling soil moisture. Forests 13(11):1797. https://doi.org/10.3390/f13111797
 1.	Peltola O., Aurela M., **Launiainen S.**, Katul G.G. 2022. Probing the eddy size and its effective mixing length in stably stratified roughness sublayer flows. Q. J. R. Meteorol. Soc. https://doi.org/10.1002/qj.4386
 1.  Stenberg L., Leppä K., **Launiainen S.**, Laurén A., Hökkä H., Sarkkola S., Saarinen M. and Nieminen M. 2022. Measuring and modeling the effect of strip cuttings on water table in drained peatland forests. Forests. https://doi.org/10.3390/f13071134
