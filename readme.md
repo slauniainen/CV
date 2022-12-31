@@ -115,7 +115,7 @@ samuli.launiainen@luke.fi
 1.	Eyvindson K., **Launiainen S.**, Leppä K., Repo A., Salmivaara A., Lehtonen, A. 2022. Quantifying forest management impacts on GHG emissions from drained peatland forests: Balancing production and climate goals. Can. J. For. Res (submitted 5.4.2022)
 
 ## A Peer-reviewed scientific articles (total 76)
-1. Salmivaara A., Leinonen A., Palviaine M., Korhonen N., **Launiainen S.**, Tuomenvirta H., Ukonmaanaho L, Finér L., Laurén A. 2022. Exploring the Role of Weather and Forest Management on Nutrient Export in Boreal Forested Catchments using Spatially Distributed Model. Forests (accepted 26.12.2022) 
+1. Salmivaara A., Leinonen A., Palviaine M., Korhonen N., **Launiainen S.**, Tuomenvirta H., Ukonmaanaho L, Finér L., Laurén A. 2023. Exploring the Role of Weather and Forest Management on Nutrient Export in Boreal Forested Catchments using Spatially Distributed Model. Forests (accepted 26.12.2022) 
 1. Porada P., et al. 2022. A research agenda for non-vascular vegetation under climate change. New Phytologist. https://doi.org/10.1111/nph.18631
 1.	**Launiainen S.**, Kieloaho A.-J., Lindroos A.-J., Salmivaara A., Ilvesniemi H., Heiskanen J. 2022. Water retention characteristics of mineral forest soils in Finland: impacts for modeling soil moisture. Forests 13(11):1797. https://doi.org/10.3390/f13111797
 1.	Peltola O., Aurela M., **Launiainen S.**, Katul G.G. 2022. Probing the eddy size and its effective mixing length in stably stratified roughness sublayer flows. Q. J. R. Meteorol. Soc. https://doi.org/10.1002/qj.4386
