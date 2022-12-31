@@ -86,7 +86,7 @@
 -	Member of European Geoscientific Union 2017-
 
 
-## LIST OF PUBLICATIONS 					Nov 17, 2022.
+## LIST OF PUBLICATIONS 					Dec 31, 2022.
 
 **Samuli Launiainen**
 
@@ -106,13 +106,16 @@ samuli.launiainen@luke.fi
 
 +358 40 8672426
 
-## Articles in Review (3)
+## Articles in Review (4)
+
+1.	Tikkasalo O.-P., Leppä K., **Launiainen S.**, Peltoniemi M., Mäkipää R., Rinne-Garmston K., Sahlstedt E., Young G. H.F., Bokareva A., Lohila A., Korkiakoski M., Schiestl-Aalto P., Lehtonen A. 2023. Modelling the response of Norway spruce tree ring carbon and oxygen isotopes to selection harvest on a drained peatland forest. Tree Phys. (in review, submitted 23.12.2022)
+2.	Anttila J., Tikkasalo O.-P, Hölttä T., Lintunen A., Vainio E., Leppä K., Haikarainen I.P., Koivula H., Ghasemi Falk H., Kohl L., **Launiainen S.**, Pihlatie M. 2023. Model of methane transport in tree stems: case study of sap flow and radial diffusion. Tree Phys. (revisions submitted 23.12.2022)
 
 1. Pulliainen J. et al. Four decades increase in gross photosynthesis of boreal forests balanced out by increase in ecosystem respiration. (Submitted 24.11.2022) 
-1. Salmivaara A., Leinonen A., Palviaine M., Korhonen N., **Launiainen S.**, Tuomenvirta H., Ukonmaanaho L, Finér L., Laurén A. 2022. Exploring the Role of Weather and Forest Management on Nutrient Export in Boreal Forested Catchments using Spatially Distributed Model. Forests (submitted 7.11.2022) 
 1.	Eyvindson K., **Launiainen S.**, Leppä K., Repo A., Salmivaara A., Lehtonen, A. 2022. Quantifying forest management impacts on GHG emissions from drained peatland forests: Balancing production and climate goals. Can. J. For. Res (submitted 5.4.2022)
 
-## A Peer-reviewed scientific articles (total 75)
+## A Peer-reviewed scientific articles (total 76)
+1. Salmivaara A., Leinonen A., Palviaine M., Korhonen N., **Launiainen S.**, Tuomenvirta H., Ukonmaanaho L, Finér L., Laurén A. 2022. Exploring the Role of Weather and Forest Management on Nutrient Export in Boreal Forested Catchments using Spatially Distributed Model. Forests (accepted 26.12.2022) 
 1. Porada P., et al. 2022. A research agenda for non-vascular vegetation under climate change. New Phytologist. https://doi.org/10.1111/nph.18631
 1.	**Launiainen S.**, Kieloaho A.-J., Lindroos A.-J., Salmivaara A., Ilvesniemi H., Heiskanen J. 2022. Water retention characteristics of mineral forest soils in Finland: impacts for modeling soil moisture. Forests 13(11):1797. https://doi.org/10.3390/f13111797
 1.	Peltola O., Aurela M., **Launiainen S.**, Katul G.G. 2022. Probing the eddy size and its effective mixing length in stably stratified roughness sublayer flows. Q. J. R. Meteorol. Soc. https://doi.org/10.1002/qj.4386
