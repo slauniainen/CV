@@ -110,7 +110,7 @@ samuli.launiainen@luke.fi
 
 1.	Tikkasalo O.-P., Leppä K., **Launiainen S.**, Peltoniemi M., Mäkipää R., Rinne-Garmston K., Sahlstedt E., Young G. H.F., Bokareva A., Lohila A., Korkiakoski M., Schiestl-Aalto P., Lehtonen A. 2023. Modelling the response of Norway spruce tree ring carbon and oxygen isotopes to selection harvest on a drained peatland forest. (in review)
 1.	Anttila J., Tikkasalo O.-P, Hölttä T., Lintunen A., Vainio E., Leppä K., Haikarainen I.P., Koivula H., Ghasemi Falk H., Kohl L., **Launiainen S.**, Pihlatie M. 2023. Model of methane transport in tree stems: case study of sap flow and radial diffusion. Tree Phys. (revisions submitted 23.12.2022)
-1. Pulliainen J. et al. Four decades increase in gross photosynthesis of boreal forests balanced out by increase in ecsosystem respiration. (Submitted 24.11.2022) 
+1. Pulliainen J. et al. Four decades increase in gross photosynthesis of boreal forests balanced out by increase in ecosystem respiration. (Submitted 24.11.2022) 
 
 ## A Peer-reviewed scientific articles (total 77)
 1.	Eyvindson K., **Launiainen S.**, Leppä K., Repo A., Salmivaara A., Lehtonen, A. 2023. Quantifying forest management impacts on GHG emissions from drained peatland forests: Balancing production and climate goals. Can. J. For. Res (accepted 26.1.2023)
