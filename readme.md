@@ -86,7 +86,7 @@
 -	Member of European Geoscientific Union 2017-
 
 
-## LIST OF PUBLICATIONS 					Feb 27, 2023.
+## LIST OF PUBLICATIONS 					May 23, 2023.
 
 **Samuli Launiainen**
 
@@ -106,8 +106,8 @@ samuli.launiainen@luke.fi
 
 +358 40 8672426
 
-## Articles in Review (3)
-
+## Articles in Review (4)
+1. Lehtonen A., Eyvindson K., Härkönen K., Leppä K., Salmivaara A., Peltoniemi M., Salminen O., Sarkkola S., **Launiainen S.**, Ojanen P., Räty M., Mäkipää R. 2023. Could continuous cover forestry on drained peatlands increase the carbon sink of Finnish forests? Sci. Rep. (in review) https://doi.org/10.21203/rs.3.rs-2943040/v1
 1. Nousu, J.-P., Lafaysse, M., Mazzotti, G., Ala-aho, P., Marttila, H., Cluzet, B., Aurela, M., Lohila, A., Kolari, P., Boone, A., Fructus, M., and **Launiainen, S.**2023. Modelling snowpack dynamics and surface energy budget in boreal and subarctic peatlands and forests, EGUsphere [preprint], https://doi.org/10.5194/egusphere-2023-338, 2023.
 1.	Tikkasalo O.-P., Leppä K., **Launiainen S.**, Peltoniemi M., Mäkipää R., Rinne-Garmston K., Sahlstedt E., Young G. H.F., Bokareva A., Lohila A., Korkiakoski M., Schiestl-Aalto P., Lehtonen A. 2023. Modelling the response of Norway spruce tree ring carbon and oxygen isotopes to selection harvest on a drained peatland forest. Tree Phys. (in review)
 1.	Anttila J., Tikkasalo O.-P, Hölttä T., Lintunen A., Vainio E., Leppä K., Haikarainen I.P., Koivula H., Ghasemi Falk H., Kohl L., **Launiainen S.**, Pihlatie M. 2023. Model of methane transport in tree stems: case study of sap flow and radial diffusion. Tree Phys. (revisions submitted 23.12.2022)
