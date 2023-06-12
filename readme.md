@@ -11,7 +11,7 @@
 - **Twitter:** @SaLascience
 - **email:** samuli.launiainen@luke.fi
 - **tel:** +358 40 8672426
-- **Date:** 18.3.2023
+- **Date:** 12.6.2023
 
 ### 2.	Education and degrees completed
 - 01.05.2014 Title of Docent (Forest Meteorology and Hydrology), University of Eastern Finland, Finland
@@ -40,6 +40,7 @@
 - 01.01.2008-30.6.2010 Academy of Finland Centre Excellence program, Finnish Doctoral School full-time PhD-funding
 
 ***Grants as consortium member***
+- 01.09.2023-31.8.2027 Research Counsil of Finland (356138): LS-HYDRO: From forest structure to hydrological function – merging dense Earth Observation data and process-models (LS-HYDRO), 495 926€. With Eetu Puttonen (FGI)
 - 01.09.2022-31.8.2026 Academy of Finland (348102): Precision nutrient management - a tool for mitigation of climate change and environmental loading in boreal forestry (PREFER), 299 942€. With Heli Peltola (UEF) and Marjo Palviainen (Univ. Helsinki), total 999 942€
 - 01.01.2020-31.12.2023 FORMAS, Sweden: Innovative modelling approaches for the identification of boreal forest management strategies under a changing climate (ForClimStress) to Giulia Vico,(SLU, Sweden), 542 000€ 
 
@@ -108,7 +109,7 @@ samuli.launiainen@luke.fi
 
 ## Articles in Review (4)
 1. Lehtonen A., Eyvindson K., Härkönen K., Leppä K., Salmivaara A., Peltoniemi M., Salminen O., Sarkkola S., **Launiainen S.**, Ojanen P., Räty M., Mäkipää R. 2023. Could continuous cover forestry on drained peatlands increase the carbon sink of Finnish forests? Sci. Rep. (in review) https://doi.org/10.21203/rs.3.rs-2943040/v1
-1. Nousu, J.-P., Lafaysse, M., Mazzotti, G., Ala-aho, P., Marttila, H., Cluzet, B., Aurela, M., Lohila, A., Kolari, P., Boone, A., Fructus, M., and **Launiainen, S.**2023. Modelling snowpack dynamics and surface energy budget in boreal and subarctic peatlands and forests, EGUsphere [preprint], https://doi.org/10.5194/egusphere-2023-338, 2023.
+1. Nousu, J.-P., Lafaysse, M., Mazzotti, G., Ala-aho, P., Marttila, H., Cluzet, B., Aurela, M., Lohila, A., Kolari, P., Boone, A., Fructus, M., and **Launiainen, S.** 2023. Modelling snowpack dynamics and surface energy budget in boreal and subarctic peatlands and forests, EGUsphere [preprint], https://doi.org/10.5194/egusphere-2023-338, 2023.
 1.	Tikkasalo O.-P., Leppä K., **Launiainen S.**, Peltoniemi M., Mäkipää R., Rinne-Garmston K., Sahlstedt E., Young G. H.F., Bokareva A., Lohila A., Korkiakoski M., Schiestl-Aalto P., Lehtonen A. 2023. Modelling the response of Norway spruce tree ring carbon and oxygen isotopes to selection harvest on a drained peatland forest. Tree Phys. (in review)
 1.	Anttila J., Tikkasalo O.-P, Hölttä T., Lintunen A., Vainio E., Leppä K., Haikarainen I.P., Koivula H., Ghasemi Falk H., Kohl L., **Launiainen S.**, Pihlatie M. 2023. Model of methane transport in tree stems: case study of sap flow and radial diffusion. Tree Phys. (revisions submitted 23.12.2022)
 
