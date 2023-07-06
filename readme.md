@@ -107,7 +107,8 @@ samuli.launiainen@luke.fi
 
 +358 40 8672426
 
-## Articles in Review (5)
+## Articles in Review (6)
+1. Tupek B., Lehtonen A., Yurova A., Abramoff R., Manzoni S., Guenet B., Bruni E., **Launiainen S.**, Peltoniemi M., Hashimoto S., Tian X., Heikkinen J., Minkkinen K., and Mäkipää R. 2023 Modeling boreal forest’s mineral soil and peat C stock dynamics with Yasso07 model coupled with updated moisture modifier. Egusphere, egusphere-2023-1523.
 1. Voigt C., Dubbert M., **Launiainen S.**, Porada P., Oestmann J., and Piayda A. 2023. CO2 exchange modelling in temperate raised bogs: impact of vegetation composition and seasonality on carbon flux sensitivity. Sci. Rep. (in review)
 1. Lehtonen A., Eyvindson K., Härkönen K., Leppä K., Salmivaara A., Peltoniemi M., Salminen O., Sarkkola S., **Launiainen S.**, Ojanen P., Räty M., Mäkipää R. 2023. Could continuous cover forestry on drained peatlands increase the carbon sink of Finnish forests? Sci. Rep. (in review) https://doi.org/10.21203/rs.3.rs-2943040/v1
 1. Nousu, J.-P., Lafaysse, M., Mazzotti, G., Ala-aho, P., Marttila, H., Cluzet, B., Aurela, M., Lohila, A., Kolari, P., Boone, A., Fructus, M., and **Launiainen, S.** 2023. Modelling snowpack dynamics and surface energy budget in boreal and subarctic peatlands and forests, EGUsphere [preprint], https://doi.org/10.5194/egusphere-2023-338, 2023.
