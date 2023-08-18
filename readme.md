@@ -26,7 +26,7 @@
 - 01.01.2016– 31.8.2021 Academy Research Fellow, LUKE
 - 01.01.2015 – 31.08.2016 Senior researcher, LUKE
 - 01.08.2010 – 31.12.2014 Senior researcher, Finnish Forest Research Institute
-- 01.04.2006 – 30.06.2010 Doctoral student, University of Helsinki, Department of Physics
+- 01.04.2006 – 30.06.2010 Doctoral researcher, University of Helsinki, Department of Physics
 - 01.01.2004 – 28.02.2006 Research assistant, University of Helsinki, Department of Physics
 - 15.5.2002 - 15.09.2002 Research assistant, Finnish Marine Research Institute
 
