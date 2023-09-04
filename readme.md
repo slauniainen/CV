@@ -30,7 +30,7 @@
 - 01.01.2004 – 28.02.2006 Research assistant, University of Helsinki, Department of Physics
 - 15.5.2002 - 15.09.2002 Research assistant, Finnish Marine Research Institute
 
-### 5. Personal Research funding and grants
+### 5. Research funding and grants
 ***Research grants as the main applicant or consortium PI***
 - 01.09.2023-31.8.2027 Research Counsil of Finland (356138): LS-HYDRO: From forest structure to hydrological function – merging dense Earth Observation data and process-models (LS-HYDRO), 495 926€. With Eetu Puttonen (FGI), total 995 926€
 - 01.09.2022-31.8.2026 Academy of Finland (348102): Precision nutrient management - a tool for mitigation of climate change and environmental loading in boreal forestry (PREFER), 299 942€. With Heli Peltola (UEF) and Marjo Palviainen (Univ. Helsinki), total 999 942€
@@ -73,7 +73,7 @@
 - ***Assistant / guest lecturer:*** Forest-Atmosphere Interactions (2006); Boundary-layer physics I (2006, 2009); Boundary-layer physics II (2007); Principles in Environmental Physics I (2009); Impacts of silviculture on greenhouse gas emissions and biogeochemical cycles (2010)
 
 ### 8.	Research outputs
--	77 peer-reviewed scientific articles, h-index 34, number of citations 3674 (Google Scholar, 9.2.2023)
+-	78 peer-reviewed scientific articles, h-index 36, number of citations 4039 (Google Scholar, 4.9.2023)
 -	APES & pyAPES -ecosystem model open-source code (https://github.com/LukeEcomod)
 -	SpaFHy, SpaFHy-Peat and NutSpaFHy -distributed hydrological model open-source codes (https://github.com/LukeEcomod)
 -	KUSTAA -tool for estimating catchment-scale nutrient and sediment loading (https://github.com/LukeEcomod)
@@ -107,15 +107,15 @@ samuli.launiainen@luke.fi
 
 +358 40 8672426
 
-## Articles in Review (6)
+## Articles in Review (5)
 1. Tupek B., Lehtonen A., Yurova A., Abramoff R., Manzoni S., Guenet B., Bruni E., **Launiainen S.**, Peltoniemi M., Hashimoto S., Tian X., Heikkinen J., Minkkinen K., and Mäkipää R. 2023 Modeling boreal forest’s mineral soil and peat C stock dynamics with Yasso07 model coupled with updated moisture modifier. Egusphere [preprint], https://doi.org/10.5194/egusphere-2023-1523.
 1. Voigt C., Dubbert M., **Launiainen S.**, Porada P., Oestmann J., and Piayda A. 2023. CO2 exchange modelling in temperate raised bogs: impact of vegetation composition and seasonality on carbon flux sensitivity. Sci. Rep. (in review)
 1. Lehtonen A., Eyvindson K., Härkönen K., Leppä K., Salmivaara A., Peltoniemi M., Salminen O., Sarkkola S., **Launiainen S.**, Ojanen P., Räty M., Mäkipää R. 2023. Could continuous cover forestry on drained peatlands increase the carbon sink of Finnish forests? Sci. Rep. (in review) https://doi.org/10.21203/rs.3.rs-2943040/v1
 1. Nousu, J.-P., Lafaysse, M., Mazzotti, G., Ala-aho, P., Marttila, H., Cluzet, B., Aurela, M., Lohila, A., Kolari, P., Boone, A., Fructus, M., and **Launiainen, S.** 2023. Modelling snowpack dynamics and surface energy budget in boreal and subarctic peatlands and forests, EGUsphere [preprint], https://doi.org/10.5194/egusphere-2023-338, 2023.
 1.	Tikkasalo O.-P., Leppä K., **Launiainen S.**, Peltoniemi M., Mäkipää R., Rinne-Garmston K., Sahlstedt E., Young G. H.F., Bokareva A., Lohila A., Korkiakoski M., Schiestl-Aalto P., Lehtonen A. 2023. Modelling the response of Norway spruce tree ring carbon and oxygen isotopes to selection harvest on a drained peatland forest. Tree Phys. (in review)
-1.	Anttila J., Tikkasalo O.-P, Hölttä T., Lintunen A., Vainio E., Leppä K., Haikarainen I.P., Koivula H., Ghasemi Falk H., Kohl L., **Launiainen S.**, Pihlatie M. 2023. Model of methane transport in tree stems: case study of sap flow and radial diffusion. Tree Phys. (revisions submitted 23.12.2022)
 
-## A Peer-reviewed scientific articles (total 77)
+## A Peer-reviewed scientific articles (total 78)
+1.	Anttila J., Tikkasalo O.-P, Hölttä T., Lintunen A., Vainio E., Leppä K., Haikarainen I.P., Koivula H., Ghasemi Falk H., Kohl L., **Launiainen S.**, Pihlatie M. 2023. Model of methane transport in tree stems: case study of sap flow and radial diffusion. Plant Cell Environ. (accepted 4.9.2023)
 1.	Eyvindson K., **Launiainen S.**, Leppä K., Repo A., Salmivaara A., Lehtonen, A. 2023. Quantifying forest management impacts on GHG emissions from drained peatland forests: Balancing production and climate goals. Can. J. For. Res (accepted 26.1.2023)
 1.	Salmivaara A., Leinonen A., Palviaine M., Korhonen N., **Launiainen S.**, Tuomenvirta H., Ukonmaanaho L, Finér L., Laurén A. 2023. Exploring the Role of Weather and Forest Management on Nutrient Export in Boreal Forested Catchments using Spatially Distributed Model. Forests, 14, 89, https://doi.org/10.3390/f14010089 
 1.	Porada P., Bader M.Y., Berdugo M.B., Colesie C., Ellis C.J., Giordani P., Herzschuh U., Ma Y., **Launiainen S.**, Nascimbene J., Petersen I., Raggio Quílez J., Rodríguez-Caballero E., Rousk K., Sancho L.G., Scheidegger C., Seitz S., Van Stan II J.T., Veste M., Weber B., Weston D.J. 2022. A research agenda for non-vascular vegetation under climate change. New Phytologist, https://doi.org/10.1111/nph.18631 
