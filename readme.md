@@ -31,18 +31,17 @@
 - 15.5.2002 - 15.09.2002 Research assistant, Finnish Marine Research Institute
 
 ### 5. Research funding and grants
-***Research grants as the main applicant or consortium PI***
+***Research grants as the main applicant or consortium PI (> 2 M€)***
 - 01.09.2023-31.8.2027 Research Counsil of Finland (356138): LS-HYDRO: From forest structure to hydrological function – merging dense Earth Observation data and process-models (LS-HYDRO), 495 926€. With Eetu Puttonen (FGI), total 995 926€
 - 01.09.2022-31.8.2026 Academy of Finland (348102): Precision nutrient management - a tool for mitigation of climate change and environmental loading in boreal forestry (PREFER), 299 942€. With Heli Peltola (UEF) and Marjo Palviainen (Univ. Helsinki), total 999 942€
 - 01.01.2020-31.12.2023 FORMAS, Sweden: Innovative modelling approaches for the identification of boreal forest management strategies under a changing climate (ForClimStress). With Giulia Vico,(SLU, Sweden), total 542 000€ 
 - 1.4.2021-31.12.2022 LUKE strategic funding, Hydrology of tropical anb boreal peatlands (HYDROPE) 180 000€
-- 1.9.2016-31.8.2021 Academy of Finland Academy Research Fellow (296116): Climate impacts of boreal bryophytes – from functional traits to global models (CLIMOSS), Academy of Finland (296116), 434 485€
-- 1.9.2016-31.8.2019 Academy of Finland (307192), Academy Research Fellow research costs, 274 642€
-- 1.9.2019-31.8.2021 Academy of Finland (327180), Academy Research Fellow research costs, 199 943€
+- 1.9.2016-31.8.2021 Academy of Finland Academy Research Fellow (296116, 307192,327180): Climate impacts of boreal bryophytes – from functional traits to global models (CLIMOSS), Academy of Finland (296116), 909 069€
 - 01.01.2008-30.6.2010 Academy of Finland Centre Excellence program, Finnish Doctoral School full-time PhD-funding
 
-***Significant role as co-applicant***
--	9/2021-8/2024 Academy of Finland: Novel intra-molecular isotopic approach to infer past climate and plant responses from tree-ring archives (MoleO, no. 343059) to Katja Rinne-Garmston, LUKE 500 000€. Role: ecological modeling	
+***Significant role as co-applicant (>1.6 M€)***
+-	9/2021-8/2024 Academy of Finland: Novel intra-molecular isotopic approach to infer past climate and plant responses from tree-ring archives (MoleO, no. 343059) to Katja Rinne-Garmston, LUKE 500 000€. Role: ecological modeling
+-	9/2020 – 8/2024 Academy of Finland (332172): Trafficability Prediction and Route Planning for Forest Machines (TRAM) to Jukka Heikkonen (Univ. Turku) and Leena Finér (Luke). 400 127 €, tot. consortium: 794 000€ Role: Concept, methodology, Luke PI 1/2021 –
 -	2016-2017 Academy of Finland Advanced computational methodologies on open big data for forest terrain trafficability monitoring and forecasting (FOTETRAF) to Leena Finér (Luke) 297 632€. Role: Design of hydrological modeling
 -	2010-2013 Finnish Bioeconomy cluster FIBIC, Value through Intensive and Efficient Fibre Supply (EFFIBRE); PI Jari Hynynen, 320 000€. Role. Forest hydrology and water footprints
 
