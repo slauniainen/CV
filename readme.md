@@ -106,7 +106,9 @@ samuli.launiainen@luke.fi
 
 +358 40 8672426
 
-## Articles in Review (3)
+## Articles in Review (5)
+1. Pulliainen J., et al. 2023. Increase in gross primary production of boreal forests balanced out by increase in ecosystem respiration. Nat. GeoSci. (submitted)
+1. Metzler H., **Launiainen S.**, Vico G. 2023. Amount of carbon fixed, transit time and fate of harvested wood products define the climate change mitigation potential of boreal forest management - A model analysis. Ecol. Mod. (in review). Preprint at EcoEcoRxiv https://doi.org/10.32942/X22881
 1. Tupek B., Lehtonen A., Yurova A., Abramoff R., Manzoni S., Guenet B., Bruni E., **Launiainen S.**, Peltoniemi M., Hashimoto S., Tian X., Heikkinen J., Minkkinen K., and Mäkipää R. 2023 Modeling boreal forest’s mineral soil and peat C stock dynamics with Yasso07 model coupled with updated moisture modifier. Egusphere [preprint], https://doi.org/10.5194/egusphere-2023-1523.
 1. Voigt C., Dubbert M., **Launiainen S.**, Porada P., Oestmann J., and Piayda A. 2023. CO2 exchange modelling in temperate raised bogs: impact of vegetation composition and seasonality on carbon flux sensitivity. Sci. Rep. (in review)
 1. Nousu, J.-P., Lafaysse, M., Mazzotti, G., Ala-aho, P., Marttila, H., Cluzet, B., Aurela, M., Lohila, A., Kolari, P., Boone, A., Fructus, M., and **Launiainen, S.** 2023. Modelling snowpack dynamics and surface energy budget in boreal and subarctic peatlands and forests, EGUsphere [preprint], https://doi.org/10.5194/egusphere-2023-338, 2023.
