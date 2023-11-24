@@ -79,8 +79,7 @@
 
 ### 9.	Other key scientific or academic merits
 -	Pre-examiner of doctoral theses: Pekka Rantala, 2016 (Univ. Helsinki); Yao Gao, 2016 (Univ. Helsinki); Xin Jia, 2017 (Univ. Eastern Finland); Tom Kokkonen, 2019 (Univ. Helsinki)
--	Associate Editor in Frontiers of Forests and Climate Change (Section Boreal and Temperate forests)
--	Reviewer in peer-reviewed journals (2006-2021): Agricultural and Forest Meteorology,  Atmospheric Environment, Biogeosciences, Canadian Journal of Forest Research Ecological Modeling, Environmental Modeling and Software, Forest Ecology and Management, Frontiers of Plant Science, Hydrological and Earth System Sciences, Journal of Ecology, Journal of Geophysical Research, Journal of Royal Society Interfaces, Nature Communications, Tellus, series B, Plant and Soil, Scandinavian Journal of Forest Research, Water Resources Research
+-	Reviewer in peer-reviewed journals (2006--): Agricultural and Forest Meteorology,  Atmospheric Environment, Biogeosciences, Canadian Journal of Forest Research Ecological Modeling, Environmental Modeling and Software, Forest Ecology and Management, Frontiers of Plant Science, Hydrological and Earth System Sciences, Journal of Ecology, Journal of Geophysical Research, Journal of Royal Society Interfaces, Nature Communications, Tellus, series B, Plant and Soil, Scandinavian Journal of Forest Research, Water Resources Research
 
 ### 10.	Memberships and positions of trust in scientific societies
 -	Member of European Geoscientific Union 2017-
