@@ -106,7 +106,7 @@ samuli.launiainen@luke.fi
 +358 40 8672426
 
 ## Articles in Review (7)
-1. Zelnik Y., **Launiainen S.**, Vico G. 2024. Managing for heterogeneity reduces fire risk in boreal forest landscapes - a model analysis. Sci. Tot. Env. (submitted)
+1. Zelnik Y., **Launiainen S.**, Vico G. 2024. Managing for heterogeneity reduces fire risk in boreal forest landscapes - a model analysis. Ecosystems (submitted)
 1. Aslan T., **Launiainen S.**, Kolari P., Peltola O., Aalto J., Back J., Vesala T., Mammarella I. 2023. Thinning turned boreal forest to a carbon source - short term effects of partial harvest on carbon dioxide and water vapor fluxes. Agric. For. Met. (in review)
 1. Pulliainen J., et al. 2023. Increase in gross primary production of boreal forests balanced out by increase in ecosystem respiration. Nat. GeoSci. (in review)
 1. Metzler H., **Launiainen S.**, Vico G. 2023. Amount of carbon fixed, transit time and fate of harvested wood products define the climate change mitigation potential of boreal forest management - A model analysis. Ecol. Mod. (in review). Preprint at EcoEcoRxiv https://doi.org/10.32942/X22881
