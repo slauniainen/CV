@@ -85,7 +85,7 @@
 -	Member of European Geoscientific Union 2017-
 
 
-## LIST OF PUBLICATIONS 					Nov 22, 2023.
+## LIST OF PUBLICATIONS 					Nov 23, 2023.
 
 **Samuli Launiainen**
 
