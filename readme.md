@@ -85,7 +85,7 @@
 -	Member of European Geoscientific Union 2017-
 
 
-## LIST OF PUBLICATIONS 					Feb 23, 2024.
+## LIST OF PUBLICATIONS 					Mar 13, 2024.
 
 **Samuli Launiainen**
 
@@ -105,18 +105,20 @@ samuli.launiainen@luke.fi
 
 +358 40 8672426
 
-## Articles in Review (6)
+## Articles in Review (7)
+1. Salmivaara A., Holmström E., Kulju S., Ala-Ilomäki J., Virjonen P., Nevalainen P., Heikkonen J. and Launiainen S. 2024. High-resolution harvester data for estimating rolling resistance and forest trafficability. Forestry (submitted 13.3.2024) 
+1. Palviainen M., Pumpanen J., Mosquera V., Hasselquist E.M., Laudon H., Ostonen I., Kull A., Renou Wilson F., Peltomaa E., Könönen M., **Launiainen S.**, Peltola H., Ojala A. and Laurén A. 2024. Proper water management reduces lateral carbon fluxes and improves carbon balance in drained forested peatlands. Science of the Total Environment (submitted)
 1. Zelnik Y., **Launiainen S.**, Vico G. 2024. Managing for heterogeneity reduces fire risk in boreal forest landscapes - a model analysis. Ecol. Appl. (submitted)
 1. Aslan T., **Launiainen S.**, Kolari P., Peltola O., Aalto J., Back J., Vesala T., Mammarella I. 2023. Thinning turned boreal forest to a carbon source - short term effects of partial harvest on carbon dioxide and water vapor fluxes. Agric. For. Met. (in review)
 1. Pulliainen J., et al. 2023. Increase in gross primary production of boreal forests balanced out by increase in ecosystem respiration. Remote Sensing of Environment (in review)
-1. Metzler H., **Launiainen S.**, Vico G. 2023. Amount of carbon fixed, transit time and fate of harvested wood products define the climate change mitigation potential of boreal forest management - A model analysis. Ecol. Mod. (in review). Preprint at EcoEcoRxiv https://doi.org/10.32942/X22881
 1. Tupek B., Lehtonen A., Yurova A., Abramoff R., Manzoni S., Guenet B., Bruni E., **Launiainen S.**, Peltoniemi M., Hashimoto S., Tian X., Heikkinen J., Minkkinen K., and Mäkipää R. 2023 Modeling boreal forest’s mineral soil and peat C stock dynamics with Yasso07 model coupled with updated moisture modifier. Egusphere [preprint], https://doi.org/10.5194/egusphere-2023-1523.
 1. Voigt C., Dubbert M., **Launiainen S.**, Porada P., Oestmann J., and Piayda A. 2023. CO2 exchange modelling in temperate raised bogs: impact of vegetation composition and seasonality on carbon flux sensitivity. Sci. Rep. (in review)
 
-## A Peer-reviewed scientific articles (total 81)
-1. Nousu, J.-P., Lafaysse, M., Mazzotti, G., Ala-aho, P., Marttila, H., Cluzet, B., Aurela, M., Lohila, A., Kolari, P., Boone, A., Fructus, M., and **Launiainen, S.** 2023. Modelling snowpack dynamics and surface energy budget in boreal and subarctic peatlands and forests. Cryosphere (accepted 23.11.2023)
+## A Peer-reviewed scientific articles (total 82)
+1. Metzler H., **Launiainen S.**, Vico G. 2024. Amount of carbon fixed, transit time and fate of harvested wood products define the climate change mitigation potential of boreal forest management - A model analysis. Ecol. Mod. (accepted 12.3.2024)
+1. Nousu, J.-P., Lafaysse, M., Mazzotti, G., Ala-aho, P., Marttila, H., Cluzet, B., Aurela, M., Lohila, A., Kolari, P., Boone, A., Fructus, M., and **Launiainen, S.** 2023. Modelling snowpack dynamics and surface energy budget in boreal and subarctic peatlands and forests. Cryosphere https://doi.org/10.5194/tc-18-231-2024
 1.	Tikkasalo O.-P., Leppä K., **Launiainen S.**, Peltoniemi M., Mäkipää R., Rinne-Garmston K., Sahlstedt E., Young G. H.F., Bokareva A., Lohila A., Korkiakoski M., Schiestl-Aalto P., Lehtonen A. 2023. Modelling the response of Norway spruce tree ring carbon and oxygen isotopes to selection harvest on a drained peatland forest. Tree Phys. https://doi.org/10.1093/treephys/tpad119
-1. Lehtonen A., Eyvindson K., Härkönen K., Leppä K., Salmivaara A., Peltoniemi M., Salminen O., Sarkkola S., **Launiainen S.**, Ojanen P., Räty M., Mäkipää R. 2023. Could continuous cover forestry on drained peatlands increase the carbon sink of Finnish forests? Sci. Rep. (accepted 8.9.2023). Preprint at: https://doi.org/10.21203/rs.3.rs-2943040/v1
+1. Lehtonen A., Eyvindson K., Härkönen K., Leppä K., Salmivaara A., Peltoniemi M., Salminen O., Sarkkola S., **Launiainen S.**, Ojanen P., Räty M., Mäkipää R. 2023. Could continuous cover forestry on drained peatlands increase the carbon sink of Finnish forests? Sci Rep 13, 15510 (2023), https://doi.org/10.1038/s41598-023-42315-7
 1.	Anttila J., Tikkasalo O.-P, Hölttä T., Lintunen A., Vainio E., Leppä K., Haikarainen I.P., Koivula H., Ghasemi Falk H., Kohl L., **Launiainen S.**, Pihlatie M. 2023. Model of methane transport in tree stems: case study of sap flow and radial diffusion. Plant Cell Environ. https://doi.org/10.1111/pce.14718
 1.	Eyvindson K., **Launiainen S.**, Leppä K., Repo A., Salmivaara A., Lehtonen, A. 2023. Quantifying forest management impacts on GHG emissions from drained peatland forests: Balancing production and climate goals. Can. J. For. Res 17 March 2023
 https://doi.org/10.1139/cjfr-2022-0101
