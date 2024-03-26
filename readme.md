@@ -72,7 +72,7 @@
 - ***Assistant / guest lecturer:*** Forest-Atmosphere Interactions (2006); Boundary-layer physics I (2006, 2009); Boundary-layer physics II (2007); Principles in Environmental Physics I (2009); Impacts of silviculture on greenhouse gas emissions and biogeochemical cycles (2010)
 
 ### 8.	Research outputs
--	81 peer-reviewed scientific articles, h-index 36, number of citations 4230 (Google Scholar, 04.12.2023)
+-	82 peer-reviewed scientific articles, h-index 36, number of citations 4230 (Google Scholar, 04.12.2023)
 -	APES & pyAPES -ecosystem model open-source code (https://github.com/LukeEcomod)
 -	SpaFHy, SpaFHy-Peat and NutSpaFHy -distributed hydrological model open-source codes (https://github.com/LukeEcomod)
 -	KUSTAA -tool for estimating catchment-scale nutrient and sediment loading (https://github.com/LukeEcomod)
@@ -85,7 +85,7 @@
 -	Member of European Geoscientific Union 2017-
 
 
-## LIST OF PUBLICATIONS 					Mar 15, 2024.
+## LIST OF PUBLICATIONS 					Mar 26, 2024.
 
 **Samuli Launiainen**
 
@@ -116,7 +116,7 @@ samuli.launiainen@luke.fi
 1. Voigt C., Dubbert M., **Launiainen S.**, Porada P., Oestmann J., and Piayda A. 2023. CO2 exchange modelling in temperate raised bogs: impact of vegetation composition and seasonality on carbon flux sensitivity. Sci. Rep. (in review)
 
 ## A Peer-reviewed scientific articles (total 82)
-1. Metzler H., **Launiainen S.**, Vico G. 2024. Amount of carbon fixed, transit time and fate of harvested wood products define the climate change mitigation potential of boreal forest management - A model analysis. Ecol. Mod. (accepted 12.3.2024)
+1. Metzler H., **Launiainen S.**, Vico G. 2024. Amount of carbon fixed, transit time and fate of harvested wood products define the climate change mitigation potential of boreal forest management - A model analysis. Ecol. Mod., 491, May 2024, 110694, https://doi.org/10.1016/j.ecolmodel.2024.110694
 1. Nousu, J.-P., Lafaysse, M., Mazzotti, G., Ala-aho, P., Marttila, H., Cluzet, B., Aurela, M., Lohila, A., Kolari, P., Boone, A., Fructus, M., and **Launiainen, S.** 2024. Modelling snowpack dynamics and surface energy budget in boreal and subarctic peatlands and forests. Cryosphere https://doi.org/10.5194/tc-18-231-2024
 1.	Tikkasalo O.-P., Leppä K., **Launiainen S.**, Peltoniemi M., Mäkipää R., Rinne-Garmston K., Sahlstedt E., Young G. H.F., Bokareva A., Lohila A., Korkiakoski M., Schiestl-Aalto P., Lehtonen A. 2023. Modelling the response of Norway spruce tree ring carbon and oxygen isotopes to selection harvest on a drained peatland forest. Tree Phys. https://doi.org/10.1093/treephys/tpad119
 1. Lehtonen A., Eyvindson K., Härkönen K., Leppä K., Salmivaara A., Peltoniemi M., Salminen O., Sarkkola S., **Launiainen S.**, Ojanen P., Räty M., Mäkipää R. 2023. Could continuous cover forestry on drained peatlands increase the carbon sink of Finnish forests? Sci Rep 13, 15510 (2023), https://doi.org/10.1038/s41598-023-42315-7
