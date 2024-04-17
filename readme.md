@@ -11,7 +11,7 @@
 - **Twitter:** @SaLascience
 - **email:** samuli.launiainen@luke.fi
 - **tel:** +358 40 8672426
-- **Date:** 12.6.2023
+- **Date:** 17.4.2024
 
 ### 2.	Education and degrees completed
 - 01.05.2014 Title of Docent (Forest Meteorology and Hydrology), University of Eastern Finland, Finland
@@ -105,7 +105,8 @@ samuli.launiainen@luke.fi
 
 +358 40 8672426
 
-## Articles in Review (8)
+## Articles in Review (9)
+1. Palosuo T., Heikkinen J., Hilasvuori E., Kulmala L., Launiainen S., Lehtilä A., Leinonen I., Liimatainen M., Salminen M., Shurpali N., Silfver T., Soinne H., Vira J., Liski J. 2024. Demands and possibilities for field-scale estimation of agricultural greenhouse gas balances. Catena (submitted 16.4.2024)
 1. Nousu, J.-P., Leppä, K., Marttila, H., Ala-Aho, P., Mazzotti, G., Manninen, T., Aurela, M., Korkiakoski, M., Lohila, A., **Launiainen, S.** 2024. Multi-scale soil moisture data and process-based modeling reveal the importance of lateral groundwater flow in a subarctic catchment. Hydrol. Eart. Syst. Sci (submitted 15.3.2024)
 1. Salmivaara A., Holmström E., Kulju S., Ala-Ilomäki J., Virjonen P., Nevalainen P., Heikkonen J. and **Launiainen S.** 2024. High-resolution harvester data for estimating rolling resistance and forest trafficability. Forestry (submitted 13.3.2024) 
 1. Palviainen M., Pumpanen J., Mosquera V., Hasselquist E.M., Laudon H., Ostonen I., Kull A., Renou Wilson F., Peltomaa E., Könönen M., **Launiainen S.**, Peltola H., Ojala A. and Laurén A. 2024. Proper water management reduces lateral carbon fluxes and improves carbon balance in drained forested peatlands. Science of the Total Environment (submitted)
