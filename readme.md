@@ -85,7 +85,7 @@
 -	Member of European Geoscientific Union 2017-
 
 
-## LIST OF PUBLICATIONS 					May 13, 2024.
+## LIST OF PUBLICATIONS 					Jul 1, 2024.
 
 **Samuli Launiainen**
 
