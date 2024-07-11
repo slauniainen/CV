@@ -72,7 +72,7 @@
 - ***Assistant / guest lecturer:*** Forest-Atmosphere Interactions (2006); Boundary-layer physics I (2006, 2009); Boundary-layer physics II (2007); Principles in Environmental Physics I (2009); Impacts of silviculture on greenhouse gas emissions and biogeochemical cycles (2010)
 
 ### 8.	Research outputs
--	82 peer-reviewed scientific articles, h-index 37, number of citations 4567 (Google Scholar, 17.4.2024)
+-	86 peer-reviewed scientific articles, h-index 38, number of citations 4719 (Google Scholar, 11.7.2024)
 -	APES & pyAPES -ecosystem model open-source code (https://github.com/LukeEcomod)
 -	SpaFHy, SpaFHy-Peat and NutSpaFHy -distributed hydrological model open-source codes (https://github.com/LukeEcomod)
 -	KUSTAA -tool for estimating catchment-scale nutrient and sediment loading (https://github.com/LukeEcomod)
@@ -85,7 +85,7 @@
 -	Member of European Geoscientific Union 2017-
 
 
-## LIST OF PUBLICATIONS 					Jul 1, 2024.
+## LIST OF PUBLICATIONS 					Jul 11, 2024.
 
 **Samuli Launiainen**
 
@@ -118,7 +118,7 @@ samuli.launiainen@luke.fi
 ## A Peer-reviewed scientific articles (total 86)
 1. Salmivaara A., Holmström E., Kulju S., Ala-Ilomäki J., Virjonen P., Nevalainen P., Heikkonen J. and **Launiainen S.** 2024. High-resolution harvester data for estimating rolling resistance and forest trafficability. Eur. J. For. Res. (accepted 30.6.2024) 
 1. Aslan T., **Launiainen S.**, Kolari P., Peltola O., Aalto J., Back J., Vesala T., Mammarella I. 2023. Thinning turned boreal forest to a carbon source - short term effects of partial harvest on carbon dioxide and water vapor fluxes. Agric. For. Met. (accepted 13.5.2024)
-1. Tupek B., Lehtonen A., Yurova A., Abramoff R., Manzoni S., Guenet B., Bruni E., **Launiainen S.**, Peltoniemi M., Hashimoto S., Tian X., Heikkinen J., Minkkinen K., and Mäkipää R. 2023 Modeling boreal forest’s mineral soil and peat C stock dynamics with Yasso07 model coupled with updated moisture modifier. Egusphere [preprint], https://doi.org/10.5194/egusphere-2023-1523. (Accepted to Biogeosciences 12.5.2024)
+1. Tupek B., Lehtonen A., Yurova A., Abramoff R., Manzoni S., Guenet B., Bruni E., **Launiainen S.**, Peltoniemi M., Hashimoto S., Tian X., Heikkinen J., Minkkinen K., and Mäkipää R. 2023 Modeling boreal forest’s mineral soil and peat C stock dynamics with Yasso07 model coupled with updated moisture modifier. Geo. Sci. Model. Dev. https://doi.org/10.5194/gmd-17-5349-2024
 1. Voigt C., Dubbert M., **Launiainen S.**, Porada P., Oestmann J., and Piayda A. 2024. Impact of vegetation composition and seasonality on sensitivity of modelled CO2 exchange in temperate raised bogs. Sci Rep 14, 11023 (2024). https://doi.org/10.1038/s41598-024-61229-6
 1. Metzler H., **Launiainen S.**, Vico G. 2024. Amount of carbon fixed, transit time and fate of harvested wood products define the climate change mitigation potential of boreal forest management - A model analysis. Ecol. Mod., 491, May 2024, 110694, https://doi.org/10.1016/j.ecolmodel.2024.110694
 1. Nousu, J.-P., Lafaysse, M., Mazzotti, G., Ala-aho, P., Marttila, H., Cluzet, B., Aurela, M., Lohila, A., Kolari, P., Boone, A., Fructus, M., and **Launiainen, S.** 2024. Modelling snowpack dynamics and surface energy budget in boreal and subarctic peatlands and forests. Cryosphere https://doi.org/10.5194/tc-18-231-2024
