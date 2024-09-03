@@ -105,15 +105,15 @@ samuli.launiainen@luke.fi
 
 +358 40 8672426
 
-## Articles in Review (6)
-1. Tikkasalo O.-P., Peltola O., Alekseychik P., Heikkinen J., **Launiainen S.**, Lehtonen A., Qian L., Martinez-García E., Peltoniemi M., Salovaara P., Tuominen V., & Mäkipää R. 2024. Eddy covariance fluxes of CO2, CH4 and N2O on a drained peatland forest after clearcutting. EguSphere https://doi.org/10.5194/egusphere-2024-1994
+## Articles in Review (5)
+1. Tikkasalo O.-P., Peltola O., Alekseychik P., Heikkinen J., **Launiainen S.**, Lehtonen A., Qian L., Martinez-García E., Peltoniemi M., Salovaara P., Tuominen V., & Mäkipää R. 2024. Eddy covariance fluxes of CO2, CH4 and N2O on a drained peatland forest after clearcutting. EguSphere, https://doi.org/10.5194/egusphere-2024-1994
 1. Jetsonen J., Laurén A., Peltola H., Laurén K., **Launiainen S.**, Palviainen M. 2024. Volume growth responses of Scots pine and Norway spruce to nitrogen fertilization: quantitative synthesis of fertilization experiments in Finland. Silva Fennica (submitted).
 1. Muhonen O., Peltola H., Lauren A., Ikonen V.-P., Nevalainen J., Pikkarainen L., Kilpeläinen A., **Launiainen S.**, Palviainen M. 2024. Spatial evenness of fertilization and short-term volume growth responses of Scots pine and Norway spruce to fertilization intensity. Silva Fennica (in review)
 1. Palosuo T., Heikkinen J., Hilasvuori E., Kulmala L., **Launiainen S.**, Lehtilä A., Leinonen I., Liimatainen M., Salminen M., Shurpali N., Silfver T., Soinne H., Vira J., Liski J. 2024. Demands and possibilities for field-scale estimation of agricultural greenhouse gas balances. Catena (submitted 16.4.2024)
-1. Nousu, J.-P., Leppä, K., Marttila, H., Ala-Aho, P., Mazzotti, G., Manninen, T., Aurela, M., Korkiakoski, M., Lohila, A., **Launiainen, S.** 2024. Multi-scale soil moisture data and process-based modeling reveal the importance of lateral groundwater flow in a subarctic catchment. Hydrol. Eart. Syst. Sci (submitted 15.3.2024)
 1. Zelnik Y., **Launiainen S.**, Vico G. 2024. Managing for heterogeneity reduces fire risk in boreal forest landscapes - a model analysis. Ecol. Appl. (submitted)
 
-## A Peer-reviewed scientific articles (total 88)
+## A Peer-reviewed scientific articles (total 89)
+1. Nousu, J.-P., Leppä, K., Marttila, H., Ala-Aho, P., Mazzotti, G., Manninen, T., Aurela, M., Korkiakoski, M., Lohila, A., **Launiainen, S.** 2024. Multi-scale soil moisture data and process-based modeling reveal the importance of lateral groundwater flow in a subarctic catchment. Hydrol. Eart. Syst. Sci. (accepted 3.9.2024)
 1. Pulliainen J., Aurela M., Aalto T., Böttcher K., Cohen J., Derksen C., Heimann M., Helbig M., Kolari P., Kontu A., Krasnova A., **Launiainen S.**, Lemmetyinen J., Lindqvist H., Lindroth A., Lohila A., Luojus K., Mammarella I., Markkanen T., Nevala E., Noe S., Peichl M., Pumpanen J., Rautiainen K., Salminen M., Sonnentag O., Takala M., Thum T., Vesala T., Vestin P. 2024. Increase in gross primary production of boreal forests balanced out by increase in ecosystem respiration. Remote Sensing of Environment, 313, 114376, https://doi.org/10.1016/j.rse.2024.114376.
 1. Palviainen M., Pumpanen J., Mosquera V., Hasselquist E.M., Laudon H., Ostonen I., Kull A., Renou Wilson F., Peltomaa E., Könönen M., **Launiainen S.**, Peltola H., Ojala A. and Laurén A. 2024. Proper water management reduces lateral carbon fluxes and improves carbon balance in drained forested peatlands. Science of the Total Environment (accepted 29.7.2024)
 1. Salmivaara A., Holmström E., Kulju S., Ala-Ilomäki J., Virjonen P., Nevalainen P., Heikkonen J. and **Launiainen S.** 2024. High-resolution harvester data for estimating rolling resistance and forest trafficability. Eur. J. For. Res. (accepted 30.6.2024) 
