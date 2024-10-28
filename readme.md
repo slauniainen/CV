@@ -56,6 +56,7 @@
 ***PhD-supervision***
 -	Toprak Aslan, 2/2019-, Biophysical and biogeochemical impacts of boreal forest thinning. University of Helsinki, Finland
 -	Jari-Pekka Nousu, 8/2020-, Modeling spatiotemporal hydrology at high-latitudes, University of Oulu, Finland
+-	Parsa Parvizi, 9/2024-, Spatial ecohydrology at high latitudes, University of Oulu, Finland
 
 ***Project leadership***
 -	PI Luke’s Ecosystem Modeling Lab and Academy Research Fellow Project CLIMOSS (2016-2021)
