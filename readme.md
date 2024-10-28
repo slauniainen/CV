@@ -73,7 +73,7 @@
 - ***Assistant / guest lecturer:*** Forest-Atmosphere Interactions (2006); Boundary-layer physics I (2006, 2009); Boundary-layer physics II (2007); Principles in Environmental Physics I (2009); Impacts of silviculture on greenhouse gas emissions and biogeochemical cycles (2010)
 
 ### 8.	Research outputs
--	86 peer-reviewed scientific articles, h-index 38, number of citations 4719 (Google Scholar, 11.7.2024)
+-	89 peer-reviewed scientific articles, h-index 38, number of citations 4987 (Google Scholar, 28.10.2024)
 -	APES & pyAPES -ecosystem model open-source code (https://github.com/LukeEcomod)
 -	SpaFHy, SpaFHy-Peat and NutSpaFHy -distributed hydrological model open-source codes (https://github.com/LukeEcomod)
 -	KUSTAA -tool for estimating catchment-scale nutrient and sediment loading (https://github.com/LukeEcomod)
@@ -84,9 +84,10 @@
 
 ### 10.	Memberships and positions of trust in scientific societies
 -	Member of European Geoscientific Union 2017-
+-	Member of Finnish Water Association 2023- 
 
 
-## LIST OF PUBLICATIONS 					Aug 26, 2024.
+## LIST OF PUBLICATIONS 					Oct 28, 2024.
 
 **Samuli Launiainen**
 
@@ -111,7 +112,7 @@ samuli.launiainen@luke.fi
 1. Jetsonen J., Laurén A., Peltola H., Laurén K., **Launiainen S.**, Palviainen M. 2024. Volume growth responses of Scots pine and Norway spruce to nitrogen fertilization: quantitative synthesis of fertilization experiments in Finland. Silva Fennica (submitted).
 1. Muhonen O., Peltola H., Lauren A., Ikonen V.-P., Nevalainen J., Pikkarainen L., Kilpeläinen A., **Launiainen S.**, Palviainen M. 2024. Spatial evenness of fertilization and short-term volume growth responses of Scots pine and Norway spruce to fertilization intensity. Silva Fennica (in review)
 1. Palosuo T., Heikkinen J., Hilasvuori E., Kulmala L., **Launiainen S.**, Lehtilä A., Leinonen I., Liimatainen M., Salminen M., Shurpali N., Silfver T., Soinne H., Vira J., Liski J. 2024. Demands and possibilities for field-scale estimation of agricultural greenhouse gas balances. Catena (submitted 16.4.2024)
-1. Zelnik Y., **Launiainen S.**, Vico G. 2024. Managing for heterogeneity reduces fire risk in boreal forest landscapes - a model analysis. Ecol. Appl. (submitted)
+1. Zelnik Y., **Launiainen S.**, Vico G. 2024. Managing for heterogeneity reduces fire risk in boreal forest landscapes - a model analysis. Ecol. Mod. (submitted)
 
 ## A Peer-reviewed scientific articles (total 89)
 1. Nousu, J.-P., Leppä, K., Marttila, H., Ala-Aho, P., Mazzotti, G., Manninen, T., Aurela, M., Korkiakoski, M., Lohila, A., **Launiainen, S.** 2024. Multi-scale soil moisture data and process-based modeling reveal the importance of lateral groundwater flow in a subarctic catchment. Hydrol. Earth Syst. Sci., 28, 4643–4666, https://doi.org/10.5194/hess-28-4643-2024
