@@ -87,7 +87,7 @@
 -	Member of Finnish Water Association 2023- 
 
 
-## LIST OF PUBLICATIONS 					Oct 28, 2024.
+## LIST OF PUBLICATIONS 					Jan 23, 2025.
 
 **Samuli Launiainen**
 
@@ -107,13 +107,13 @@ samuli.launiainen@luke.fi
 
 +358 40 8672426
 
-## Articles in Review (5)
+## Articles in Review (3)
 1. Tikkasalo O.-P., Peltola O., Alekseychik P., Heikkinen J., **Launiainen S.**, Lehtonen A., Qian L., Martinez-García E., Peltoniemi M., Salovaara P., Tuominen V., & Mäkipää R. 2024. Eddy covariance fluxes of CO2, CH4 and N2O on a drained peatland forest after clearcutting. EguSphere, https://doi.org/10.5194/egusphere-2024-1994
-1. Jetsonen J., Laurén A., Peltola H., Laurén K., **Launiainen S.**, Palviainen M. 2024. Volume growth responses of Scots pine and Norway spruce to nitrogen fertilization: quantitative synthesis of fertilization experiments in Finland. Silva Fennica (submitted).
 1. Muhonen O., Peltola H., Lauren A., Ikonen V.-P., Nevalainen J., Pikkarainen L., Kilpeläinen A., **Launiainen S.**, Palviainen M. 2024. Spatial evenness of fertilization and short-term volume growth responses of Scots pine and Norway spruce to fertilization intensity. Silva Fennica (in review)
 1. Zelnik Y., **Launiainen S.**, Vico G. 2024. Managing for heterogeneity reduces fire risk in boreal forest landscapes - a model analysis. Ecol. Mod. (submitted)
 
-## A Peer-reviewed scientific articles (total 90)
+## A Peer-reviewed scientific articles (total 9§)
+1. Jetsonen J., Laurén A., Peltola H., Laurén K., **Launiainen S.**, Palviainen M. 2025. Volume growth responses of Scots pine and Norway spruce to nitrogen fertilization: quantitative synthesis of fertilization experiments in Finland. Silva Fennica (accepted, Jan 19, 2025).
 1. Palosuo T., Heikkinen J., Hilasvuori E., Kulmala L., **Launiainen S.**, Lehtilä A., Leinonen I., Liimatainen M., Salminen M., Shurpali N., Silfver T., Soinne H., Vira J., Liski J. 2024. Demands and possibilities for field-scale estimation of agricultural greenhouse gas balances. Catena 249 (2025): 108649, https://doi.org/10.1016/j.catena.2024.108649
 1. Nousu, J.-P., Leppä, K., Marttila, H., Ala-Aho, P., Mazzotti, G., Manninen, T., Aurela, M., Korkiakoski, M., Lohila, A., **Launiainen, S.** 2024. Multi-scale soil moisture data and process-based modeling reveal the importance of lateral groundwater flow in a subarctic catchment. Hydrol. Earth Syst. Sci., 28, 4643–4666, https://doi.org/10.5194/hess-28-4643-2024
 1. Pulliainen J., Aurela M., Aalto T., Böttcher K., Cohen J., Derksen C., Heimann M., Helbig M., Kolari P., Kontu A., Krasnova A., **Launiainen S.**, Lemmetyinen J., Lindqvist H., Lindroth A., Lohila A., Luojus K., Mammarella I., Markkanen T., Nevala E., Noe S., Peichl M., Pumpanen J., Rautiainen K., Salminen M., Sonnentag O., Takala M., Thum T., Vesala T., Vestin P. 2024. Increase in gross primary production of boreal forests balanced out by increase in ecosystem respiration. Remote Sensing of Environment, 313, 114376, https://doi.org/10.1016/j.rse.2024.114376.
