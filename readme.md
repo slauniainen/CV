@@ -214,11 +214,12 @@ https://doi.org/10.1139/cjfr-2022-0101
 
 ## D Publications intended for professional communities
 
-1.	Nieminen, M., **Launiainen S.**, Sarkkola, S. and Laurén, A. 2020. Metsätalouden vesistökuormitus: nykykäsitys ja tulevaisuuden menetelmäkehitys. Metsätieteen aikakauskirja 2020-10336. Katsaus. 9 s. https://doi.org/10.14214/ma.10336 
-2.	Laurén, A., Hökkä, H., Urzainki, I., Palviainen, M., Haahti, K., Stenberg, L., **Launiainen S.**, Nieminen, M., and Leinonen, A. 2020. Vesiensuojelua tiedon avulla – suosimulaattori kertoo, missä kunnostusojitusta ei kannata tehdä. Vesitalous 2/2020: 25 – 27.
-3.	Finér, L., Tattari, S., **Launiainen S.**, Laurén, A., Linjama, J., Mattsson, T. ja Piirainen, S. 2015. Ajantasaista tietoa metsätalouden vesistökuormituksesta. Vesitalous 1/2016.
-4.	**Launiainen S.**, Sarkkola, S., Laurén, A., Puustinen, M., Tattari, S., Mattsson, T., Piirainen, S., Heinonen, J., Alakukku, L. ja Finér, L. 2015. KUSTAA-työkalu valuma-alueen vesistökuormituksen laskentaan. Suomen Ympäristökeskuksen Raportteja 33, 55p., ISBN 978-952-11-4374-8 (PDF)
-5.	**Launiainen S.**, Laurén A., Jaakkola E., Tattari S., Saarelainen J., Kauppila M., Joensuu S., Piirainen S. and Finér L. 2012. Maatalouden ja metsätalouden kuormituksen erottaminen Savijoen valuma-alueella. Vesitalous 4/ 2012: 15 – 21. 
+1.  Laurén A., Palviainen M., **Launiainen S.**, Hökkä H. 2025. Turvekankaat - mainettaan parempia metsämaita. Vesitalous 1/2025: 8 - 11.
+2.	Nieminen, M., **Launiainen S.**, Sarkkola, S. and Laurén, A. 2020. Metsätalouden vesistökuormitus: nykykäsitys ja tulevaisuuden menetelmäkehitys. Metsätieteen aikakauskirja 2020-10336. Katsaus. 9 s. https://doi.org/10.14214/ma.10336 
+3.	Laurén, A., Hökkä, H., Urzainki, I., Palviainen, M., Haahti, K., Stenberg, L., **Launiainen S.**, Nieminen, M., and Leinonen, A. 2020. Vesiensuojelua tiedon avulla – suosimulaattori kertoo, missä kunnostusojitusta ei kannata tehdä. Vesitalous 2/2020: 25 – 27.
+4.	Finér, L., Tattari, S., **Launiainen S.**, Laurén, A., Linjama, J., Mattsson, T. ja Piirainen, S. 2015. Ajantasaista tietoa metsätalouden vesistökuormituksesta. Vesitalous 1/2016.
+5.	**Launiainen S.**, Sarkkola, S., Laurén, A., Puustinen, M., Tattari, S., Mattsson, T., Piirainen, S., Heinonen, J., Alakukku, L. ja Finér, L. 2015. KUSTAA-työkalu valuma-alueen vesistökuormituksen laskentaan. Suomen Ympäristökeskuksen Raportteja 33, 55p., ISBN 978-952-11-4374-8 (PDF)
+6.	**Launiainen S.**, Laurén A., Jaakkola E., Tattari S., Saarelainen J., Kauppila M., Joensuu S., Piirainen S. and Finér L. 2012. Maatalouden ja metsätalouden kuormituksen erottaminen Savijoen valuma-alueella. Vesitalous 4/2012: 15 – 21. 
 
 ## E Publications intended for the general public
 
