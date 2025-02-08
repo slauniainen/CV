@@ -87,7 +87,7 @@
 -	Member of Finnish Water Association 2023- 
 
 
-## LIST OF PUBLICATIONS 					Feb 6th, 2025.
+## LIST OF PUBLICATIONS 					Feb 8th, 2025.
 
 **Samuli Launiainen**
 
@@ -108,7 +108,7 @@ samuli.launiainen@luke.fi
 +358 40 8672426
 
 ## Articles in Review (4)
-1. **Launiainen S.**, Ahtikoski A., Rinne J., Ojanen P., Hökkä H. 2025. Rewetting drained boreal peatland forests does not mitigate climate warming in the 21st century. Ambio (submitted 5.2.2025)   
+1. **Launiainen S.**, Ahtikoski A., Rinne J., Ojanen P., Hökkä H. 2025. Rewetting drained boreal peatland forests does not mitigate climate warming in the 21st century. Ambio (submitted 5.2.2025). Pre-print available at: https://eartharxiv.org/repository/view/8520/    
 1. Tikkasalo O.-P., Peltola O., Alekseychik P., Heikkinen J., **Launiainen S.**, Lehtonen A., Qian L., Martinez-García E., Peltoniemi M., Salovaara P., Tuominen V., & Mäkipää R. 2024. Eddy covariance fluxes of CO2, CH4 and N2O on a drained peatland forest after clearcutting. EguSphere, https://doi.org/10.5194/egusphere-2024-1994
 1. Muhonen O., Peltola H., Lauren A., Ikonen V.-P., Nevalainen J., Pikkarainen L., Kilpeläinen A., **Launiainen S.**, Palviainen M. 2024. Spatial evenness of fertilization and short-term volume growth responses of Scots pine and Norway spruce to fertilization intensity. Silva Fennica (in review)
 1. Zelnik Y., **Launiainen S.**, Vico G. 2024. Managing for heterogeneity reduces fire risk in boreal forest landscapes - a model analysis. Ecol. Mod. (submitted)
