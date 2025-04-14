@@ -107,13 +107,13 @@ samuli.launiainen@luke.fi
 
 +358 40 8672426
 
-## Articles in Review (4)
+## Articles in Review (3)
 1. Shurpali N., Peltola O., Li Y., Manninen P., Semberg S., **Launiainen S.**, Louhisuo A., Rinne J., Järvinen M., Virkajärvi P., Martikainen P. GHG balance, its seasonality and response 1 to soil type and management of northern agricultural grasslands: Eddy-covariance flux measurements from three adjacent fields in Finland. Agriculture, Ecosystems and Environment (submitted)
 1. **Launiainen S.**, Ahtikoski A., Rinne J., Ojanen P., Hökkä H. 2025. Rewetting drained boreal peatland forests does not mitigate climate warming in the 21st century. Ambio (submitted 5.2.2025). Pre-print available at: https://eartharxiv.org/repository/view/8520/    
-1. Muhonen O., Peltola H., Lauren A., Ikonen V.-P., Nevalainen J., Pikkarainen L., Kilpeläinen A., **Launiainen S.**, Palviainen M. 2024. Spatial evenness of fertilization and short-term volume growth responses of Scots pine and Norway spruce to fertilization intensity. Silva Fennica (in review)
 1. Zelnik Y., **Launiainen S.**, Vico G. 2024. Managing for heterogeneity reduces fire risk in boreal forest landscapes - a model analysis. Ecol. Mod. (submitted)
 
-## A Peer-reviewed scientific articles (total 92)
+## A Peer-reviewed scientific articles (total 93)
+1. Muhonen O., Peltola H., Lauren A., Ikonen V.-P., Nevalainen J., Pikkarainen L., Kilpeläinen A., **Launiainen S.**, Palviainen M. 2025. Spatial evenness of fertilization and short-term volume growth responses of Scots pine and Norway spruce to fertilization intensity. Silva Fennica (accepted Apr 14, 2025)
 1. Tikkasalo O.-P., Peltola O., Alekseychik P., Heikkinen J., **Launiainen S.**, Lehtonen A., Qian L., Martinez-García E., Peltoniemi M., Salovaara P., Tuominen V., & Mäkipää R. 2024. Eddy covariance fluxes of CO2, CH4 and N2O on a drained peatland forest after clearcutting. Biogeosciences, 22, 1277–1300, 2025, https://doi.org/10.5194/bg-22-1277-2025
 1. Jetsonen J., Laurén A., Peltola H., Laurén K., **Launiainen S.**, Palviainen M. 2025. Volume growth responses of Scots pine and Norway spruce to nitrogen fertilization: quantitative synthesis of fertilization experiments in Finland. Silva Fennica vol. 59 no. 1 article id 24041. 17 p. https://doi.org/10.14214/sf.24041
 1. Palosuo T., Heikkinen J., Hilasvuori E., Kulmala L., **Launiainen S.**, Lehtilä A., Leinonen I., Liimatainen M., Salminen M., Shurpali N., Silfver T., Soinne H., Vira J., Liski J. 2024. Demands and possibilities for field-scale estimation of agricultural greenhouse gas balances. Catena 249 (2025): 108649, https://doi.org/10.1016/j.catena.2024.108649
