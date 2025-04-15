@@ -54,8 +54,8 @@
 -	Pavel Alekseychik, 9/2018-8/2022 (now Academy Post-Doctoral Fellow at Luke), drone-based thermal and multispectral imaging for micrometeorological and ecological research
 
 ***PhD-supervision***
--	Toprak Aslan, 2/2019-, Biophysical and biogeochemical impacts of boreal forest thinning. University of Helsinki, Finland
--	Jari-Pekka Nousu, 8/2020-, Modeling spatiotemporal hydrology at high-latitudes, University of Oulu, Finland
+-	Toprak Aslan, 2/2019-1/2025, Biophysical and biogeochemical impacts of boreal forest thinning. University of Helsinki, Finland
+-	Jari-Pekka Nousu, 8/2020-11/2024, Modeling spatiotemporal hydrology at high-latitudes, University of Oulu, Finland
 -	Parsa Parvizi, 9/2024-, Spatial ecohydrology at high latitudes, University of Oulu, Finland
 
 ***Project leadership***
