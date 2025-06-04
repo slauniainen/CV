@@ -108,10 +108,10 @@ samuli.launiainen@luke.fi
 +358 40 8672426
 
 ## Articles in Review (4)
-1. Juola J., Rautiainen M., Peltola H., **Launiainen S.**, Hovi A. 2025. Nitrogen fertilization has a small but a detectable effect on the spectral properties of needles in Norway spruce. Rem. Sens. Environ. (submitted)
+1. Juola J., Rautiainen M., Peltola H., **Launiainen S.**, Hovi A. 2025. Nitrogen fertilization has a small but a detectable effect on the spectral properties of needles in Norway spruce. (submitted)
 1. Shurpali N., Peltola O., Li Y., Manninen P., Semberg S., **Launiainen S.**, Louhisuo A., Rinne J., Järvinen M., Virkajärvi P., Martikainen P. GHG balance, its seasonality and response 1 to soil type and management of northern agricultural grasslands: Eddy-covariance flux measurements from three adjacent fields in Finland. Agriculture, Ecosystems and Environment (re-submitted)
 1. **Launiainen S.**, Ahtikoski A., Rinne J., Ojanen P., Hökkä H. 2025. Rewetting drained boreal peatland forests does not mitigate climate warming in the 21st century. Ambio (re-submitted). Pre-print available at: https://eartharxiv.org/repository/view/8520/    
-1. Zelnik Y., **Launiainen S.**, Vico G. 2025. Managing for heterogeneity reduces fire risk in boreal forest landscapes - a model analysis. Ecol. Mod. (re-submitted)
+1. Zelnik Y., **Launiainen S.**, Vico G. 2025. Managing for heterogeneity reduces fire risk in boreal forest landscapes - a model analysis. Ecol. Mod. (accepted 3.6.2025)
 
 ## A Peer-reviewed scientific articles (total 93)
 1. Muhonen O., Peltola H., Lauren A., Ikonen V.-P., Nevalainen J., Pikkarainen L., Kilpeläinen A., **Launiainen S.**, Palviainen M. 2025. Spatial evenness of fertilization and short-term volume growth responses of Scots pine and Norway spruce to fertilization intensity. Silva Fennica vol. 59 no. 1 article id 24026. https://doi.org/10.14214/sf.24026
