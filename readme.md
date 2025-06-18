@@ -11,7 +11,7 @@
 - **Twitter:** @SaLascience
 - **email:** samuli.launiainen@luke.fi
 - **tel:** +358 40 8672426
-- **Date:** 06.06.2025
+- **Date:** 18.06.2025
 
 ### 2.	Education and degrees completed
 - 01.05.2014 Title of Docent (Forest Meteorology and Hydrology), University of Eastern Finland, Finland
@@ -31,7 +31,8 @@
 - 15.5.2002 - 15.09.2002 Research assistant, Finnish Marine Research Institute
 
 ### 5. Research funding and grants
-***Research grants as the main applicant or consortium PI (> 2 M€)***
+***Research grants as the main applicant or consortium PI (> 2.5 M€)***
+- 01.09.2025-31.8.2029 Research Counsil of Finland (371514): Transformed drained peatlands - Terrae Incognitae, 496 720€. With Annamari Laurén (Univ. Helsinki), total 996 698€
 - 01.09.2023-31.8.2027 Research Counsil of Finland (356138): LS-HYDRO: From forest structure to hydrological function – merging dense Earth Observation data and process-models (LS-HYDRO), 495 926€. With Eetu Puttonen (FGI), total 995 926€
 - 01.09.2022-31.8.2026 Academy of Finland (348102): Precision nutrient management - a tool for mitigation of climate change and environmental loading in boreal forestry (PREFER), 299 942€. With Heli Peltola (UEF) and Marjo Palviainen (Univ. Helsinki), total 999 942€
 - 01.01.2020-31.12.2023 FORMAS, Sweden: Innovative modelling approaches for the identification of boreal forest management strategies under a changing climate (ForClimStress). With Giulia Vico,(SLU, Sweden), total 542 000€ 
