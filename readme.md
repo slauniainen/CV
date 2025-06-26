@@ -108,7 +108,8 @@ samuli.launiainen@luke.fi
 
 +358 40 8672426
 
-## Articles in Review (2)
+## Articles in Review (3)
+1. Leppä, K., Szejner, P., Angove, C., Young, G., Blokhina, O., Fagerstedt, K., Kahmen, A., **Launiainen, S.**, Mo, L., Nelson, D., Richter, A., Sahlstedt, E., Schiestl-Aalto, P. Tang, Y. and Rinne-Garmston, K. 2025. Interpreting inter- and intra-annual environmental signals in tree-ring δ18O. New. Phytol. (submitted)
 1. Juola J., Rautiainen M., Peltola H., **Launiainen S.**, Hovi A. 2025. Nitrogen fertilization has a small but a detectable effect on the spectral properties of needles in Norway spruce. For. Ecol. Manag. (submitted)
 1. **Launiainen S.**, Ahtikoski A., Rinne J., Ojanen P., Hökkä H. 2025. Rewetting drained boreal peatland forests does not mitigate climate warming in the 21st century. Ambio (re-submitted). Pre-print available at: https://eartharxiv.org/repository/view/8520/    
 
