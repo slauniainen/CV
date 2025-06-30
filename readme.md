@@ -88,7 +88,7 @@
 -	Member of Finnish Water Association 2023- 
 
 
-## LIST OF PUBLICATIONS 					June 6th, 2025.
+## LIST OF PUBLICATIONS 					June 30th, 2025.
 
 **Samuli Launiainen**
 
