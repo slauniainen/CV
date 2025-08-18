@@ -74,7 +74,7 @@
 - ***Assistant / guest lecturer:*** Forest-Atmosphere Interactions (2006); Boundary-layer physics I (2006, 2009); Boundary-layer physics II (2007); Principles in Environmental Physics I (2009); Impacts of silviculture on greenhouse gas emissions and biogeochemical cycles (2010)
 
 ### 8.	Research outputs
--	94 peer-reviewed scientific articles, h-index 40, number of citations 5566 (Google Scholar, 06.06.2025)
+-	96 peer-reviewed scientific articles, h-index 40, number of citations 5701 (Google Scholar, 06.06.2025)
 -	APES & pyAPES -ecosystem model open-source code (https://github.com/LukeEcomod)
 -	SpaFHy, SpaFHy-Peat and NutSpaFHy -distributed hydrological model open-source codes (https://github.com/LukeEcomod)
 -	KUSTAA -tool for estimating catchment-scale nutrient and sediment loading (https://github.com/LukeEcomod)
@@ -88,7 +88,7 @@
 -	Member of Finnish Water Association 2023- 
 
 
-## LIST OF PUBLICATIONS 					June 30th, 2025.
+## LIST OF PUBLICATIONS 					Aug 18th, 2025.
 
 **Samuli Launiainen**
 
@@ -109,7 +109,7 @@ samuli.launiainen@luke.fi
 +358 40 8672426
 
 ## Articles in Review (2)
-1. Leppä, K., Szejner, P., Angove, C., Young, G., Blokhina, O., Fagerstedt, K., Kahmen, A., **Launiainen, S.**, Mo, L., Nelson, D., Richter, A., Sahlstedt, E., Schiestl-Aalto, P. Tang, Y. and Rinne-Garmston, K. 2025. Interpreting inter- and intra-annual environmental signals in tree-ring δ18O. New. Phytol. (submitted)
+1. Leppä, K., Szejner, P., Angove, C., Young, G., Blokhina, O., Fagerstedt, K., Kahmen, A., **Launiainen, S.**, Mo, L., Nelson, D., Richter, A., Sahlstedt, E., Schiestl-Aalto, P. Tang, Y. and Rinne-Garmston, K. 2025. Interpreting inter- and intra-annual environmental signals in tree-ring δ18O. Tree Phys. (submitted)
 1. Juola J., Rautiainen M., Peltola H., **Launiainen S.**, Hovi A. 2025. Nitrogen fertilization has a small but a detectable effect on the spectral properties of needles in Norway spruce. For. Ecol. Manag. (submitted)
    
 ## A Peer-reviewed scientific articles (total 96)
