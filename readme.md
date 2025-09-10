@@ -88,7 +88,7 @@
 -	Member of Finnish Water Association 2023- 
 
 
-## LIST OF PUBLICATIONS 					Aug 18th, 2025.
+## LIST OF PUBLICATIONS 					Sept 10th, 2025.
 
 **Samuli Launiainen**
 
@@ -108,11 +108,11 @@ samuli.launiainen@luke.fi
 
 +358 40 8672426
 
-## Articles in Review (2)
+## Articles in Review (1)
 1. Leppä, K., Szejner, P., Angove, C., Young, G., Blokhina, O., Fagerstedt, K., Kahmen, A., **Launiainen, S.**, Mo, L., Nelson, D., Richter, A., Sahlstedt, E., Schiestl-Aalto, P. Tang, Y. and Rinne-Garmston, K. 2025. Interpreting inter- and intra-annual environmental signals in tree-ring δ18O. Tree Phys. (submitted)
-1. Juola J., Rautiainen M., Peltola H., **Launiainen S.**, Hovi A. 2025. Nitrogen fertilization has a small but a detectable effect on the spectral properties of needles in Norway spruce. For. Ecol. Manag. (submitted)
    
-## A Peer-reviewed scientific articles (total 96)
+## A Peer-reviewed scientific articles (total 97)
+1. Juola J., Rautiainen M., Peltola H., **Launiainen S.**, Hovi A. 2025. Nitrogen fertilization has a small but a detectable effect on the spectral properties of needles in Norway spruce. For. Ecol. Manag. (accepted 10.09.2025)
 1. **Launiainen S.**, Ahtikoski A., Rinne J., Ojanen P., Hökkä H. 2025. Rewetting drained boreal peatland forests does not mitigate climate warming in the 21st century. Ambio (accepted 30.06.2025). Pre-print available at: https://eartharxiv.org/repository/view/8520/  
 1. Shurpali N., Peltola O., Li Y., Manninen P., Semberg S., **Launiainen S.**, Louhisuo A., Rinne J., Järvinen M., Virkajärvi P., Martikainen P. GHG balance, its seasonality and response to soil type and management of northern agricultural grasslands: Eddy-covariance flux measurements from three adjacent fields in Finland. Agriculture, Ecosystems and Environment, 393, 2025, 109841, ISSN 0167-8809, https://doi.org/10.1016/j.agee.2025.109841.
 1. Zelnik Y., **Launiainen S.**, Vico G. 2025. Managing for heterogeneity reduces fire risk in boreal forest landscapes - a model analysis. Ecol. Mod. (accepted 3.6.2025)
