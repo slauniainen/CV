@@ -11,7 +11,7 @@
 - **Twitter:** @SaLascience
 - **email:** samuli.launiainen@luke.fi
 - **tel:** +358 40 8672426
-- **Date:** 18.06.2025
+- **Date:** 08.10.2025
 
 ### 2.	Education and degrees completed
 - 01.05.2014 Title of Docent (Forest Meteorology and Hydrology), University of Eastern Finland, Finland
@@ -41,6 +41,7 @@
 - 01.01.2008-30.6.2010 Academy of Finland Centre Excellence program, Finnish Doctoral School full-time PhD-funding
 
 ***Significant role as co-applicant (>1.6 M€)***
+- 9/2025 - 9/2026 Government of Finland: 
 -	9/2021-8/2024 Academy of Finland: Novel intra-molecular isotopic approach to infer past climate and plant responses from tree-ring archives (MoleO, no. 343059) to Katja Rinne-Garmston, LUKE 500 000€. Role: ecological modeling
 -	9/2020 – 8/2024 Academy of Finland (332172): Trafficability Prediction and Route Planning for Forest Machines (TRAM) to Jukka Heikkonen (Univ. Turku) and Leena Finér (Luke). 400 127 €, tot. consortium: 794 000€ Role: Concept, methodology, Luke PI 1/2021 –
 -	2016-2017 Academy of Finland Advanced computational methodologies on open big data for forest terrain trafficability monitoring and forecasting (FOTETRAF) to Leena Finér (Luke) 297 632€. Role: Design of hydrological modeling
@@ -88,7 +89,7 @@
 -	Member of Finnish Water Association 2023- 
 
 
-## LIST OF PUBLICATIONS 					Sept 10th, 2025.
+## LIST OF PUBLICATIONS 					Oct 8th, 2025.
 
 **Samuli Launiainen**
 
@@ -115,7 +116,7 @@ samuli.launiainen@luke.fi
 1. Juola J., Rautiainen M., Peltola H., **Launiainen S.**, Hovi A. 2025. Nitrogen fertilization has a small but a detectable effect on the spectral properties of needles in Norway spruce. For. Ecol. Manag. (accepted 10.09.2025)
 1. **Launiainen S.**, Ahtikoski A., Rinne J., Ojanen P., Hökkä H. 2025. Rewetting drained boreal peatland forests does not mitigate climate warming in the 21st century. Ambio (accepted 30.06.2025). Pre-print available at: https://eartharxiv.org/repository/view/8520/  
 1. Shurpali N., Peltola O., Li Y., Manninen P., Semberg S., **Launiainen S.**, Louhisuo A., Rinne J., Järvinen M., Virkajärvi P., Martikainen P. GHG balance, its seasonality and response to soil type and management of northern agricultural grasslands: Eddy-covariance flux measurements from three adjacent fields in Finland. Agriculture, Ecosystems and Environment, 393, 2025, 109841, ISSN 0167-8809, https://doi.org/10.1016/j.agee.2025.109841.
-1. Zelnik Y., **Launiainen S.**, Vico G. 2025. Managing for heterogeneity reduces fire risk in boreal forest landscapes - a model analysis. Ecol. Mod. (accepted 3.6.2025)
+1. Zelnik Y., **Launiainen S.**, Vico G. 2025. Managing for heterogeneity reduces fire risk in boreal forest landscapes - a model analysis. Ecol. Mod. , 509, p.111222, https://doi.org/10.1016/j.ecolmodel.2025.111222
 1. Muhonen O., Peltola H., Lauren A., Ikonen V.-P., Nevalainen J., Pikkarainen L., Kilpeläinen A., **Launiainen S.**, Palviainen M. 2025. Spatial evenness of fertilization and short-term volume growth responses of Scots pine and Norway spruce to fertilization intensity. Silva Fennica vol. 59 no. 1 article id 24026. https://doi.org/10.14214/sf.24026
 1. Tikkasalo O.-P., Peltola O., Alekseychik P., Heikkinen J., **Launiainen S.**, Lehtonen A., Qian L., Martinez-García E., Peltoniemi M., Salovaara P., Tuominen V., & Mäkipää R. 2025. Eddy covariance fluxes of CO2, CH4 and N2O on a drained peatland forest after clearcutting. Biogeosciences, 22, 1277–1300, 2025, https://doi.org/10.5194/bg-22-1277-2025
 1. Jetsonen J., Laurén A., Peltola H., Laurén K., **Launiainen S.**, Palviainen M. 2025. Volume growth responses of Scots pine and Norway spruce to nitrogen fertilization: quantitative synthesis of fertilization experiments in Finland. Silva Fennica vol. 59 no. 1 article id 24041. 17 p. https://doi.org/10.14214/sf.24041
