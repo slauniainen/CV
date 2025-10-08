@@ -41,11 +41,11 @@
 - 01.01.2008-30.6.2010 Academy of Finland Centre Excellence program, Finnish Doctoral School full-time PhD-funding
 
 ***Significant role as co-applicant (>1.6 M€)***
-- 9/2025 - 9/2026 Government of Finland: 
+- 9/2025 - 9/2026 Valtioneuvosto / Government of Finland: Hiilinielujen ja -varastojen tutkimuksen ja havainnointijärjestelmän kehittämishanke (HIKET) / Development of research and monitoring og land-use sector carbon sinks and stocks (HIKET), Luke 1 800 000€, Tot consortium 8 000 000€. Role: WP leader. 
 -	9/2021-8/2024 Academy of Finland: Novel intra-molecular isotopic approach to infer past climate and plant responses from tree-ring archives (MoleO, no. 343059) to Katja Rinne-Garmston, LUKE 500 000€. Role: ecological modeling
 -	9/2020 – 8/2024 Academy of Finland (332172): Trafficability Prediction and Route Planning for Forest Machines (TRAM) to Jukka Heikkonen (Univ. Turku) and Leena Finér (Luke). 400 127 €, tot. consortium: 794 000€ Role: Concept, methodology, Luke PI 1/2021 –
 -	2016-2017 Academy of Finland Advanced computational methodologies on open big data for forest terrain trafficability monitoring and forecasting (FOTETRAF) to Leena Finér (Luke) 297 632€. Role: Design of hydrological modeling
--	2010-2013 Finnish Bioeconomy cluster FIBIC, Value through Intensive and Efficient Fibre Supply (EFFIBRE); PI Jari Hynynen, 320 000€. Role. Forest hydrology and water footprints
+-	2010-2013 Finnish Bioeconomy cluster FIBIC, Value through Intensive and Efficient Fibre Supply (EFFIBRE); PI Jari Hynynen, 320 000€. Role: Forest hydrology and water footprints
 
 ### 6.	Leadership and supervision experience
 ***Post-doc supervision***
