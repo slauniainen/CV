@@ -109,7 +109,8 @@ samuli.launiainen@luke.fi
 
 +358 40 8672426
 
-## Articles in Review (1)
+## Articles in Review (2)
+1. Männistö, E., et al. Short-term impacts of nitrogen fertilization on the cover of vascular plant and moss species in boreal Scots pine and Norway spruce stands. Silva Fennica, submitted (13.10.2025)
 1. Leppä, K., Szejner, P., Angove, C., Young, G., Blokhina, O., Fagerstedt, K., Kahmen, A., **Launiainen, S.**, Mo, L., Nelson, D., Richter, A., Sahlstedt, E., Schiestl-Aalto, P. Tang, Y. and Rinne-Garmston, K. 2025. Interpreting inter- and intra-annual environmental signals in tree-ring δ18O. Tree Phys. (submitted)
    
 ## A Peer-reviewed scientific articles (total 97)
