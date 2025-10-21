@@ -89,7 +89,7 @@
 -	Member of Finnish Water Association 2023- 
 
 
-## LIST OF PUBLICATIONS 					Oct 8th, 2025.
+## LIST OF PUBLICATIONS 					Oct 21th, 2025.
 
 **Samuli Launiainen**
 
@@ -109,7 +109,8 @@ samuli.launiainen@luke.fi
 
 +358 40 8672426
 
-## Articles in Review (2)
+## Articles in Review (3)
+1. Tang, H., **Launiainen, S.**, Vira, J., Kulmala, L., Palosuo, T., Aaltonen, H., Nevalainen, O., Fer, I., Vekuri, H., Nousu, J.-P., Korkiakoski, M. Liski, J. 2025. Hydraulic traits regulate productivity and drought resistance in boreal crops. New Phytol. (submitted)
 1. Männistö, E., et al. Short-term impacts of nitrogen fertilization on the cover of vascular plant and moss species in boreal Scots pine and Norway spruce stands. Silva Fennica, submitted (13.10.2025)
 1. Leppä, K., Szejner, P., Angove, C., Young, G., Blokhina, O., Fagerstedt, K., Kahmen, A., **Launiainen, S.**, Mo, L., Nelson, D., Richter, A., Sahlstedt, E., Schiestl-Aalto, P. Tang, Y. and Rinne-Garmston, K. 2025. Interpreting inter- and intra-annual environmental signals in tree-ring δ18O. Tree Phys. (submitted)
    
