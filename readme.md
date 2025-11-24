@@ -109,7 +109,8 @@ samuli.launiainen@luke.fi
 
 +358 40 8672426
 
-## Articles in Review (3)
+## Articles in Review (4)
+1. Peltola, O., Tikkasalo, O.-P., Nousu, J.-P., Rinne, J., **Launiainen, S.** 2026. Impact of atmospheric and soil droughts on northern European boreal coniferous forests carbon balance: evidence from long-term flux data. Global Change Biol. (submitted)
 1. Tang, H., **Launiainen, S.**, Vira, J., Kulmala, L., Palosuo, T., Aaltonen, H., Nevalainen, O., Fer, I., Vekuri, H., Nousu, J.-P., Korkiakoski, M. Liski, J. 2025. Hydraulic traits regulate productivity and drought resistance in boreal crops. New Phytol. (submitted)
 1. Männistö, E., et al. Short-term impacts of nitrogen fertilization on the cover of vascular plant and moss species in boreal Scots pine and Norway spruce stands. Silva Fennica, submitted (13.10.2025)
 1. Leppä, K., Szejner, P., Angove, C., Young, G., Blokhina, O., Fagerstedt, K., Kahmen, A., **Launiainen, S.**, Mo, L., Nelson, D., Richter, A., Sahlstedt, E., Schiestl-Aalto, P. Tang, Y. and Rinne-Garmston, K. 2025. Interpreting inter- and intra-annual environmental signals in tree-ring δ18O. Tree Phys. (submitted)
