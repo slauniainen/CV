@@ -89,7 +89,7 @@
 -	Member of Finnish Water Association 2023- 
 
 
-## LIST OF PUBLICATIONS 					Feb 5th, 2026.
+## LIST OF PUBLICATIONS 					Feb 18th, 2026.
 
 **Samuli Launiainen**
 
@@ -110,14 +110,16 @@ samuli.launiainen@luke.fi
 +358 40 8672426
 
 ## Articles in Review (6)
+1. Korrensalo, A., Mäkiranta, P., Laiho, R., Anttila, J., **Launiainen, S.**, Minkkinen, K., Mehtätalo, L., Mäkipää, R., Penttilä, T., Saarinen, M.a, Sarkkola, S., and Ojanen, P. 2026: Effect of tree harvesting on heterotrophic soil respiration in boreal drained peatland forests. For. Ecol. Manag. (submitted)
 1.Alekseychik, P. K., Peltoniemi, M., Mäkipää, R., Tuominen, V., Laurila, T., Jones, H., Müller, M., Lopatin, E., Rautakoski, H., Vesala, T., and **Launiainen, S.**: Drought responses of a Norway spruce forest on drained peat soil: combining sap-flow sensors, eddy-covariance, soil and UAV data, EGUsphere [preprint], https://doi.org/10.5194/egusphere-2026-568, 2026.
 1. Zelnik, Y., **Launiainen, S.**, and Vico, G. 2026. Balancing Productivity and Reliability in Fire-Prone Boreal Forests. J. Environ. Manag. (in review)
 1. Peltola, O., Tikkasalo, O.-P., Nousu, J.-P., Rinne, J., **Launiainen, S.** 2026. Impact of atmospheric and soil droughts on northern European boreal coniferous forests carbon balance: evidence from long-term flux data. Global Change Biol. (submitted)
 1. Tang, H., **Launiainen, S.**, Vira, J., Kulmala, L., Palosuo, T., Aaltonen, H., Nevalainen, O., Fer, I., Vekuri, H., Nousu, J.-P., Korkiakoski, M. Liski, J. 2025. Hydraulic traits regulate productivity and drought resistance in boreal crops. Biogeosciences, egusphere-2025-5972
 1. Männistö, E., et al. Short-term impacts of nitrogen fertilization on the cover of vascular plant and moss species in boreal Scots pine and Norway spruce stands. Silva Fennica, submitted (13.10.2025)
-1. Leppä, K., Szejner, P., Angove, C., Young, G., Blokhina, O., Fagerstedt, K., Kahmen, A., **Launiainen, S.**, Mo, L., Nelson, D., Richter, A., Sahlstedt, E., Schiestl-Aalto, P. Tang, Y. and Rinne-Garmston, K. 2025. Interpreting inter- and intra-annual environmental signals in tree-ring δ18O. Tree Phys. (submitted)
+
    
-## A Peer-reviewed scientific articles (total 97)
+## A Peer-reviewed scientific articles (total 98)
+1. Leppä, K., Szejner, P., Angove, C., Young, G., Blokhina, O., Fagerstedt, K., Kahmen, A., **Launiainen, S.**, Mo, L., Nelson, D., Richter, A., Sahlstedt, E., Schiestl-Aalto, P. Tang, Y. and Rinne-Garmston, K. 2025. Interpreting inter- and intra-annual environmental signals in tree-ring δ18O. Tree Phys. (accepted Feb 18, 2026)
 1. Juola J., Rautiainen M., Peltola H., **Launiainen S.**, Hovi A. 2025. Nitrogen fertilization has a small but a detectable effect on the spectral properties of needles in Norway spruce. For. Ecol. Manag. (accepted 10.09.2025)
 1. **Launiainen S.**, Ahtikoski A., Rinne J., Ojanen P., Hökkä H. 2025. Rewetting drained boreal peatland forests does not mitigate climate warming in the twenty-first century. Ambio 54, 2107–2117 (2025). https://doi.org/10.1007/s13280-025-02225-6
 1. Shurpali N., Peltola O., Li Y., Manninen P., Semberg S., **Launiainen S.**, Louhisuo A., Rinne J., Järvinen M., Virkajärvi P., Martikainen P. GHG balance, its seasonality and response to soil type and management of northern agricultural grasslands: Eddy-covariance flux measurements from three adjacent fields in Finland. Agriculture, Ecosystems and Environment, 393, 2025, 109841, ISSN 0167-8809, https://doi.org/10.1016/j.agee.2025.109841.
