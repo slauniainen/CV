@@ -11,7 +11,7 @@
 - **Twitter:** @SaLascience
 - **email:** samuli.launiainen@luke.fi
 - **tel:** +358 40 8672426
-- **Date:** 08.10.2025
+- **Date:** 02.04.2026
 
 ### 2.	Education and degrees completed
 - 01.05.2014 Title of Docent (Forest Meteorology and Hydrology), University of Eastern Finland, Finland
