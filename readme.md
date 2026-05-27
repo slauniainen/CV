@@ -121,7 +121,7 @@ samuli.launiainen@luke.fi
 
 ## A Peer-reviewed scientific articles (total 102)
 
-1. Männistö, E., Jetsonen, J., Peltola, H., Rouvinen, T., **Launiainen, S.**, Laurén, A., and Palviainen, M. 2026. Short-term impacts of nitrogen fertilization on the cover of vascular plant and bryophyte species in boreal Scots pine and Norway spruce stands. Silva Fennica, submitted (accepted 27.05.2026)
+1. Männistö, E., Jetsonen, J., Peltola, H., Rouvinen, T., **Launiainen, S.**, Laurén, A., and Palviainen, M. 2026. Short-term impacts of nitrogen fertilization on the cover of vascular plant and bryophyte species in boreal Scots pine and Norway spruce stands. Silva Fennica (accepted 27.05.2026)
 1. Zelnik, Y., **Launiainen, S.**, and Vico, G. 2026. Balancing Productivity and Reliability in Fire-Prone Boreal Forests. J. Environ. Manag., 409, https://doi.org/10.1016/j.jenvman.2026.130003
 1. Peltola, O., Tikkasalo, O.-P., Nousu, J.-P., Rinne, J., **Launiainen, S.** 2026. Impact of atmospheric and soil droughts on northern European boreal coniferous forests carbon balance: evidence from long-term flux data. Global Change Biol. (accepted 21.04.2026)
 1. Korrensalo, A., Mäkiranta, P., Laiho, R., Anttila, J., **Launiainen, S.**, Minkkinen, K., Mehtätalo, L., Mäkipää, R., Penttilä, T., Saarinen, M.a, Sarkkola, S., and Ojanen, P. 2026: Effect of tree harvesting on heterotrophic soil respiration in boreal drained peatland forests. For. Ecol. Manag., 612, 123730, https://doi.org/10.1016/j.foreco.2026.123730
