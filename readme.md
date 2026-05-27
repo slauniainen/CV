@@ -41,7 +41,7 @@
 - 01.01.2008-30.6.2010 Academy of Finland Centre Excellence program, Finnish Doctoral School full-time PhD-funding
 
 ***Significant role as co-applicant (>1.6 M€)***
-- 9/2025 - 9/2026 Valtioneuvosto / Government of Finland: Hiilinielujen ja -varastojen tutkimuksen ja havainnointijärjestelmän kehittämishanke (HIKET) / Development of research and monitoring tools for land-use sector carbon sinks and stocks (HIKET), Luke 1 800 000€, Tot consortium 8 000 000€. Role: WP leader. 
+- 9/2025 - 9/2026 Valtioneuvosto / Government of Finland: Hiilinielujen ja -varastojen tutkimuksen ja havainnointijärjestelmän kehittämishanke (HIKET) / Holistic infrastructure for knowledge on land-use sector carbon sinks and emissions tracking, Luke 1 800 000€, Tot. consortium 8 000 000€. Role: WP leader; development of modeling tools. 
 -	9/2021-8/2024 Academy of Finland: Novel intra-molecular isotopic approach to infer past climate and plant responses from tree-ring archives (MoleO, no. 343059) to Katja Rinne-Garmston, LUKE 500 000€. Role: ecological modeling
 -	9/2020 – 8/2024 Academy of Finland (332172): Trafficability Prediction and Route Planning for Forest Machines (TRAM) to Jukka Heikkonen (Univ. Turku) and Leena Finér (Luke). 400 127 €, tot. consortium: 794 000€ Role: Concept, methodology, Luke PI 1/2021 –
 -	2016-2017 Academy of Finland Advanced computational methodologies on open big data for forest terrain trafficability monitoring and forecasting (FOTETRAF) to Leena Finér (Luke) 297 632€. Role: Design of hydrological modeling
@@ -50,22 +50,26 @@
 ### 6.	Leadership and supervision experience
 ***Post-doc supervision***
 -	Aura Salmivaara, 3/2016-4/2020 (now Researcher at Luke); forest machine trafficability and spatial analysis
--	Antti-Jussi Kieloaho, 5/2017 – 5/2019 (now Senior Specialist at Luke), ecohydrological and physiological modeling and programming
+-	Antti-Jussi Kieloaho, 5/2017 – 5/2019, ecohydrological and physiological modeling and programming
 -	Mingfu Guan, 6/2017-6/2018 (Luke, currently Ass. Prof. at University of HongKong); spatial hydrological modeling
 -	Kersti Leppä, 12/2017-8/2020 (now Academy Post-Doctoral Fellow at Luke); ecohydrology of drained peatland forests; ecosystem modeling
 -	Pavel Alekseychik, 9/2018-8/2022 (now Academy Post-Doctoral Fellow at Luke), drone-based thermal and multispectral imaging for micrometeorological and ecological research
+-	Sandeem Thayamkottu, 4/2026-, Hydrology and biogeochemistry of drained peatland forests - possibility of water management to mitigate trade-offs among productivity and climate mitigation
 
 ***PhD-supervision***
 -	Toprak Aslan, 2/2019-1/2025, Biophysical and biogeochemical impacts of boreal forest thinning. University of Helsinki, Finland
 -	Jari-Pekka Nousu, 8/2020-11/2024, Modeling spatiotemporal hydrology at high-latitudes, University of Oulu, Finland
 -	Parsa Parvizi, 9/2024-, Spatial ecohydrology at high latitudes, University of Oulu, Finland
+-	Santeri Satalahti 6/2026-, Impact of spatial heterogeneity and ecosystem temporal change on turbulent mass and energy fluxes, University of Helsinki, Finland
 
 ***Project leadership***
 -	PI Luke’s Ecosystem Modeling Lab and Academy Research Fellow Project CLIMOSS (2016-2021)
 -	PI Trafficability Prediction and Route Planning for Forest Machines (TRAM, Academy of Finland 2021-) & ForClimStress (2020-)
 -	PI Precision nutrient management - a tool for mitigation of climate change and environmental loading in boreal forestry (PREFER, 9/2022-)
 -	PI LS-HYDRO: From forest structure to hydrological function – merging dense Earth Observation data and process-models, 9/2023-
--	Coordinator of Luke’s Eddy-Covariance and greenhouse gas infrastructure development (2021-)
+-	PI Terrae Incognitate - Transformed Drained Peatlands (Res. Council of Finland, 9/2025 - 8/2029)
+-	WP leader Holistic infrastructure for knowledge on land-use sector carbon sinks and emissions tracking (HIKET, 9/2025 - 12/2027, Prime Ministers Office)
+-	Coordinator of Luke’s Eddy-Covariance and greenhouse gas infrastructure development (2021-2023)
 
 ### 7.	Teaching experience and pedagogical competence
 - University pedagogics (10ETC, University of Helsinki, 2009)
