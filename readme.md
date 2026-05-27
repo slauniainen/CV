@@ -75,7 +75,7 @@
 - ***Assistant / guest lecturer:*** Forest-Atmosphere Interactions (2006); Boundary-layer physics I (2006, 2009); Boundary-layer physics II (2007); Principles in Environmental Physics I (2009); Impacts of silviculture on greenhouse gas emissions and biogeochemical cycles (2010)
 
 ### 8.	Research outputs
--	96 peer-reviewed scientific articles, h-index 40, number of citations 5701 (Google Scholar, 06.06.2025)
+-	102 peer-reviewed scientific articles, h-index 43, number of citations 6734 (Google Scholar, 27.05.2025)
 -	APES & pyAPES -ecosystem model open-source code (https://github.com/LukeEcomod)
 -	SpaFHy, SpaFHy-Peat and NutSpaFHy -distributed hydrological model open-source codes (https://github.com/LukeEcomod)
 -	KUSTAA -tool for estimating catchment-scale nutrient and sediment loading (https://github.com/LukeEcomod)
@@ -89,7 +89,7 @@
 -	Member of Finnish Water Association 2023- 
 
 
-## LIST OF PUBLICATIONS 					Apr 21st, 2026.
+## LIST OF PUBLICATIONS 					May 27th, 2026.
 
 **Samuli Launiainen**
 
@@ -109,15 +109,16 @@ samuli.launiainen@luke.fi
 
 +358 40 8672426
 
-## Articles in Review (4)
+## Articles in Review (3)
 
 1. Holmström, E., Virjonen, P., Nevalainen, P., Salmivaara, A., Kulju, S., Ala-Ilomäki, J., Häkli, P., Heikkonen, J. and **Launiainen, S.**. 2026. Predicting deep rutting in forest operations using open spatial and forest machine data. Eur. J. For. Res. (submitted)
 1. Alekseychik, P. K., Peltoniemi, M., Mäkipää, R., Tuominen, V., Laurila, T., Jones, H., Müller, M., Lopatin, E., Rautakoski, H., Vesala, T., and **Launiainen, S.**: Drought responses of a Norway spruce forest on drained peat soil: combining sap-flow sensors, eddy-covariance, soil and UAV data, EGUsphere [preprint], https://doi.org/10.5194/egusphere-2026-568, 2026.
 1. Tang, H., **Launiainen, S.**, Vira, J., Kulmala, L., Palosuo, T., Aaltonen, H., Nevalainen, O., Fer, I., Vekuri, H., Nousu, J.-P., Korkiakoski, M. Liski, J. 2025. Hydraulic traits regulate productivity and drought resistance in boreal crops. Biogeosciences, egusphere-2025-5972
-1. Männistö, E., et al. Short-term impacts of nitrogen fertilization on the cover of vascular plant and moss species in boreal Scots pine and Norway spruce stands. Silva Fennica, submitted (13.10.2025)
 
-## A Peer-reviewed scientific articles (total 101)
-1. Zelnik, Y., **Launiainen, S.**, and Vico, G. 2026. Balancing Productivity and Reliability in Fire-Prone Boreal Forests. J. Environ. Manag. (accepted 18.05.2026)
+## A Peer-reviewed scientific articles (total 102)
+
+1. Männistö, E., Jetsonen, J., Peltola, H., Rouvinen, T., **Launiainen, S.**, Laurén, A., and Palviainen, M. 2026. Short-term impacts of nitrogen fertilization on the cover of vascular plant and bryophyte species in boreal Scots pine and Norway spruce stands. Silva Fennica, submitted (accepted 27.05.2026)
+1. Zelnik, Y., **Launiainen, S.**, and Vico, G. 2026. Balancing Productivity and Reliability in Fire-Prone Boreal Forests. J. Environ. Manag., 409, https://doi.org/10.1016/j.jenvman.2026.130003
 1. Peltola, O., Tikkasalo, O.-P., Nousu, J.-P., Rinne, J., **Launiainen, S.** 2026. Impact of atmospheric and soil droughts on northern European boreal coniferous forests carbon balance: evidence from long-term flux data. Global Change Biol. (accepted 21.04.2026)
 1. Korrensalo, A., Mäkiranta, P., Laiho, R., Anttila, J., **Launiainen, S.**, Minkkinen, K., Mehtätalo, L., Mäkipää, R., Penttilä, T., Saarinen, M.a, Sarkkola, S., and Ojanen, P. 2026: Effect of tree harvesting on heterotrophic soil respiration in boreal drained peatland forests. For. Ecol. Manag. (accepted)
 1. Leppä, K., Szejner, P., Angove, C., Young, G., Blokhina, O., Fagerstedt, K., Kahmen, A., **Launiainen, S.**, Mo, L., Nelson, D., Richter, A., Sahlstedt, E., Schiestl-Aalto, P. Tang, Y. and Rinne-Garmston, K. 2025. Interpreting inter- and intra-annual environmental signals in tree-ring δ18O. Tree Phys. (accepted Feb 18, 2026)
