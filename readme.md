@@ -93,7 +93,7 @@
 -	Member of Finnish Water Association 2023- 
 
 
-## LIST OF PUBLICATIONS 					May 27th, 2026.
+## LIST OF PUBLICATIONS 					Aug 6th, 2026.
 
 **Samuli Launiainen**
 
@@ -123,7 +123,7 @@ samuli.launiainen@luke.fi
 
 1. Männistö, E., Jetsonen, J., Peltola, H., Rouvinen, T., **Launiainen, S.**, Laurén, A., and Palviainen, M. 2026. Short-term impacts of nitrogen fertilization on the cover of vascular plant and bryophyte species in boreal Scots pine and Norway spruce stands. Silva Fennica (accepted 27.05.2026)
 1. Zelnik, Y., **Launiainen, S.**, and Vico, G. 2026. Balancing Productivity and Reliability in Fire-Prone Boreal Forests. J. Environ. Manag., 409, https://doi.org/10.1016/j.jenvman.2026.130003
-1. Peltola, O., Tikkasalo, O.-P., Nousu, J.-P., Rinne, J., **Launiainen, S.** 2026. Impact of atmospheric and soil droughts on northern European boreal coniferous forests carbon balance: evidence from long-term flux data. Global Change Biol. (accepted 21.04.2026)
+1. Peltola, O., Tikkasalo, O.-P., Nousu, J.-P., Rinne, J., **Launiainen, S.** 2026. Impact of atmospheric and soil droughts on northern European boreal coniferous forests carbon balance: evidence from long-term flux data. G2, no. 8: e70962. https://doi.org/10.1111/gcb.70962.
 1. Korrensalo, A., Mäkiranta, P., Laiho, R., Anttila, J., **Launiainen, S.**, Minkkinen, K., Mehtätalo, L., Mäkipää, R., Penttilä, T., Saarinen, M.a, Sarkkola, S., and Ojanen, P. 2026: Effect of tree harvesting on heterotrophic soil respiration in boreal drained peatland forests. For. Ecol. Manag., 612, 123730, https://doi.org/10.1016/j.foreco.2026.123730
 1. Leppä, K., Szejner, P., Angove, C., Young, G., Blokhina, O., Fagerstedt, K., Kahmen, A., **Launiainen, S.**, Mo, L., Nelson, D., Richter, A., Sahlstedt, E., Schiestl-Aalto, P. Tang, Y. and Rinne-Garmston, K. 2026. Interpreting inter- and intra-annual environmental signals in tree-ring δ18O using isotope-enabled modeling, Tree Physiology, 46:4, April 2026, tpag026, https://doi.org/10.1093/treephys/tpag026
 1. Juola J., Rautiainen M., Peltola H., **Launiainen S.**, Hovi A. 2025. Nitrogen fertilization has a small but a detectable effect on the spectral properties of needles in Norway spruce. For. Ecol., 597, 123170, Manag. https://doi.org/10.1016/j.foreco.2025.123170
